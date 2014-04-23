@@ -68,6 +68,6 @@ echo " </channel>
 mv -f last.html lastold.html
 mv -f recent.html last.html
 
-#git commit $rss -m "update rss"
-#git push
+git commit $rss -m "update rss"
+git push
 
