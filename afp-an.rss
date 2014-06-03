@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Tue, 03 Jun 2014 10:10:01 +0200</pubDate>
+  <pubDate>Tue, 03 Jun 2014 11:50:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Le budget rectificatif en débat à l'Assemblée du 23 au 25 juin</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/140603094639.lbqlqzgl.html</link>
+   <description><![CDATA[Le budget rectificatif pour 2014, qui va être présenté en Conseil des ministres le 11 juin, sera discuté dans l'hémicycle de l'Assemblée nationale du 23 au 25 juin, a annoncé mardi le secrétaire d'Etat aux Relations avec le Parlement, Jean-Marie Le Guen. Ce projet de loi de finances rectificative (PLFR) prévoira notamment la sortie de l'impôt sur le revenu de 1,8 million de ménages annoncée le 16 mai par le Premier ministre, Manuel Valls. Il sera complété par un budget rectificatif de la Sécurité sociale, qui sera présenté le 18 juin en Conseil des ministres et qui devrait être débattu fin juin-début juillet à l'Assemblée. M. Le Guen a annoncé l'inscription du PLFR en première lecture à l'ordre du jour de l'Assemblée des 23, 24 et 25 juin lors de la conférence des présidents, qui réunit notamment les chefs de file des groupes politiques autour de Claude Bartolone (PS).]]></description>
+   <pubDate>Tue, 03 Jun 2014 11:46:00 +0200</pubDate>
+  </item>
   <item>
    <title>Dissolution? Pas de raison "si la majorité est cohérente", selon Valls</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/140603080047.lyovzqh3.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/140528163036.od1h6v7p.html</link>
    <description><![CDATA[La proposition de résolution du député UMP Henri Guaino réclamant la suspension des poursuites judiciaires engagées à son encontre pour "outrage à magistrat" a été rejetée en commission mercredi, a-t-on appris de sources parlementaires. Elle sera tout de même examinée en séance plénière mardi 3 juin. Conformément au règlement de l'Assemblée, la proposition de résolution avait été soumise à la commission chargée de ce type de demande, présidée par le socialiste Matthias Fekl. La gauche a voté contre, la droite pour. Henri Guaino a été renvoyé en correctionnelle pour avoir accusé le 22 mars 2013 le juge Jean-Michel Gentil d'avoir "déshonoré la justice" en mettant en examen Nicolas Sarkozy, dont il était le conseiller à l'Elysée, et qui a finalement bénéficié d'un non-lieu. Son procès se déroulera le 22 octobre à Paris. Dans une proposition de résolution déposée le 16 mai, Henri Guaino, élu des Yvelines, demande à ses collègues d'user de l'article 26 de la Constitution qui prévoit la suspension, pour la durée de la session, des poursuites engagées contre un parlementaire "si l'Assemblée dont il fait partie le requiert". L'Assemblée, selon M. Guaino, rappellera ainsi "que dans une société démocratique, le délit d'opinion n'existe pas, pour autant que l'expression de cette opinion ne porte pas gravement atteinte aux libertés d'autrui ou à l'ordre public". Même si elle était votée, la suspension des poursuites ne serait valable que jusqu'à la fin de la session ordinaire du Parlement, le 30 juin.]]></description>
    <pubDate>Wed, 28 May 2014 18:30:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Les textes de loi tendent à enfler au Parlement, selon Regards citoyens</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/140528161912.8aixgr4h.html</link>
-   <description><![CDATA[Les textes de loi ont tendance à s'allonger lors de leur examen au Parlement, un tiers doublant même de volume, a calculé l'association Regards Citoyens sur un échantillon depuis 2010. 61% des textes ont vu leur taille augmenter de plus de 50% après leur passage au Parlement, selon Regards Citoyens, qui a scruté environ 200 projets ou propositions de loi amendables pour une étude sur "la fabrique de la loi". Parmi eux, 65 textes ont doublé de volume. De plus, 74% des projets ou propositions de loi ont vu les termes de leur texte original modifiés à plus de 50%, a précisé le collectif à l'AFP, à l'origine du site nosdéputés.fr. Les textes de loi peuvent évoluer par des amendements du gouvernement ou des parlementaires, pour préciser, développer, ajouter ou encore corriger une disposition. Regards Citoyens ne fait pas à ce stade d'analyse qualitative, mais la multiplication d'amendements rédactionnels peut être par exemple le signe qu'un texte n'a pas été bien préparé. L'association a pu faire ces calculs grâce à un nouvel outil élaboré avec deux laboratoires de Sciences Po Paris, le médialab et le Centre d'études européennes, dans le cadre d'un projet de recherche intitulé "Les députés font-ils la loi?" Cet outil permet notamment de visualiser les modifications d'un texte à chaque phase de la procédure.]]></description>
-   <pubDate>Wed, 28 May 2014 18:19:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
