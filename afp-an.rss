@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Tue, 14 Oct 2014 11:10:03 +0200</pubDate>
+  <pubDate>Tue, 14 Oct 2014 11:40:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Moduler les allocations: "une déclaration de guerre" aux familles (députés UMP)</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141014093047.c99o65j2.html</link>
+   <description><![CDATA[La quasi totalité du groupe UMP à l'Assemblée Nationale estime que la modulation des allocations familiales selon les ressources proposée par les députés socialistes constituerait "une véritable déclaration de guerre aux familles", dans une tribune publiée mardi par le Figaro. "Depuis l'élection de Hollande, l'idéologie est au pouvoir et les familles en sont les victimes", écrivent les députés UMP (sauf Franck Riester et Lucien Degauchy) et le président du groupe Christian Jacob. Ils critiquent le partage paritaire du congé parental entre la mère et le père, qu'ils qualifient de "mesure la plus pernicieuse". Les signataires estiment que le gouvernement "vient de franchir une ligne rouge en présentant son budget 2015 pour la branche famille de la Sécurité sociale". Quant à la proposition des députés socialistes d'une mise sous condition de ressources des allocations familiales, les signataires de la tribune la qualifient de "véritable déclaration de guerre aux familles". "Nous considérons comme un acquis sacré l'universalité de la politique familiale", disent-ils. Les députés UMP déplorent que le gouvernement ait "réduit à deux reprises le quotient familial (...) un outil puissant de solidarité entre les familles", référence au plafonnement de la réduction d'impôts qu'autorise le nombre d'enfants d'une famille. "De retour au pouvoir, nous devrons revenir sur cette baisse du quotient familial. Nous devrons refonder la politique familiale", disent les députés. La poursuite de cette politique aura pour conséquence de "baisser davantage le pouvoir d'achat des familles" et "d'affaiblir la solidarité nationale" avec le risque "gravissime pour le pays d'un effondrement du taux de fécondité", écrivent encore les parlementaires de l'opposition.]]></description>
+   <pubDate>Tue, 14 Oct 2014 11:30:00 +0200</pubDate>
+  </item>
   <item>
    <title>Agriculture: la loi d'avenir publiée au JO, y compris les GIEE contestés par l'UMP</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141014090739.e3395jgo.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141010235028.c2w35s2m.html</link>
    <description><![CDATA[L'Assemblée nationale a voté dans la nuit de vendredi à samedi deux amendements au projet de loi sur la transition énergétique tendant à encadrer le recours à la sous-traitance dans les centrales nucléaires et à mieux suivre la santé des salariés concernés. Le premier, présenté par l'écologiste Denis Baupin, prévoit que le gouvernement puisse "encadrer ou limiter" par décret "le recours à des prestataires ou à la sous-traitance" dans les centrales. Le second, du socialiste François Brottes, prévoit que les travailleurs qui se déplacent d'un site nucléaire à l'autre soit suivi par un médecin du travail référent tout au long de sa carrière.]]></description>
    <pubDate>Fri, 10 Oct 2014 01:50:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Le trajet à vélo pour aller au travail pourrait être indemnisé par l'employeur (Assemblée)</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141010233255.dpld3ai3.html</link>
-   <description><![CDATA[Les employeurs pourront, s'ils le souhaitent, verser une indemnité kilométrique à leurs salariés se rendant à vélo, ou à vélo électrique, à leur lieu de travail, aux termes d'un amendement, voté vendredi soir, au projet de loi sur la transition énergétique. Pour être applicable, cette mesure devra avoir été maintenue lors de la navette parlementaire sur ce projet de loi, qui était examiné en première lecture par les députés. Le montant de l'indemnité kilométrique vélo sera fixé par décret, et elle sera exonérée de cotisations sociales, selon cet amendement présenté par le socialiste Alexis Bachelay et d'autres parlementaires défenseurs du vélo.]]></description>
-   <pubDate>Fri, 10 Oct 2014 01:32:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
