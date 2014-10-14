@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Tue, 14 Oct 2014 11:40:01 +0200</pubDate>
+  <pubDate>Tue, 14 Oct 2014 12:10:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Mission d'information de l'Assemblée nationale sur la Nouvelle-Calédonie</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141014100259.a4obg5wt.html</link>
+   <description><![CDATA[L'Assemblée nationale constitue une mission d'information "sur l'avenir institutionnel de la Nouvelle-Calédonie", dans la perspective du référendum d'autodétermination prévu d'ici 2018, a annoncé mardi son président, Claude Bartolone (PS). Celui-ci s'exprimait, selon une source parlementaire, devant la Conférence des présidents de l'Assemblée, qui réunit notamment les chefs de file des groupes politiques. Le processus de décolonisation de la Nouvelle-Calédonie prévoit la tenue d'un référendum d'autodétermination d'ici à 2018, mais de nombreuses questions restent à régler dans cette perspective. La mission de réflexion sera composée de 17 membres provenant de tous les groupes de l'Assemblée. En outre, les deux députés néo-calédoniens, Philippe Gomes et Sonia Lagarde (tous deux UDI) en seront membres de droit.]]></description>
+   <pubDate>Tue, 14 Oct 2014 12:02:00 +0200</pubDate>
+  </item>
   <item>
    <title>Moduler les allocations: "une déclaration de guerre" aux familles (députés UMP)</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141014093047.c99o65j2.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141011032638.hcc00u0k.html</link>
    <description><![CDATA[L'Assemblée nationale a voté samedi au petit matin la création d'un chèque énergie pour les ménages modestes, une mesure phare du projet de loi sur la transition énergétique dont elle achève l'examen en première lecture. Ce chèque énergie doit permettre à ses bénéficiaires de payer les fournisseurs d'énergie ou de capitaliser afin de réaliser des travaux destinés à économiser de l'énergie. La ministre de l'Ecologie Ségolène Royal est favorable à une "cohabitation partielle" des tarifs sociaux de l'électricité et du gaz avec le chèque énergie. Plus de 11 millions de personnes, soit un cinquième de la population française, éprouvent des difficultés à se chauffer et s'éclairer, selon une évaluation de l'Observatoire national de la précarité énergétique (ONPE).]]></description>
    <pubDate>Sat, 11 Oct 2014 05:26:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>L'Assemblée vote deux mesures sur les sous-traitants du nucléaire</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141010235028.c2w35s2m.html</link>
-   <description><![CDATA[L'Assemblée nationale a voté dans la nuit de vendredi à samedi deux amendements au projet de loi sur la transition énergétique tendant à encadrer le recours à la sous-traitance dans les centrales nucléaires et à mieux suivre la santé des salariés concernés. Le premier, présenté par l'écologiste Denis Baupin, prévoit que le gouvernement puisse "encadrer ou limiter" par décret "le recours à des prestataires ou à la sous-traitance" dans les centrales. Le second, du socialiste François Brottes, prévoit que les travailleurs qui se déplacent d'un site nucléaire à l'autre soit suivi par un médecin du travail référent tout au long de sa carrière.]]></description>
-   <pubDate>Fri, 10 Oct 2014 01:50:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
