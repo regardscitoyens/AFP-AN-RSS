@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Mon, 20 Oct 2014 20:40:01 +0200</pubDate>
+  <pubDate>Mon, 20 Oct 2014 22:40:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Budget: les votes reportés en attendant que le gouvernement retrouve sa majorité</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141020203742.omddmeci.html</link>
+   <description><![CDATA[Mis en minorité lors d'un vote mineur, le gouvernement a reporté pendant 40 minutes le vote de l'ensemble des amendements restant à discuter lundi soir sur le volet recettes du projet de budget 2015, provoquant la fureur de l'opposition. Défait sur un amendement des radicaux de gauche qui augmentait de dix millions d'euros la somme affectée au Fonds de solidarité du développement, le gouvernement, par la voix du secrétaire d'Etat au Budget Christian Eckert, avait pris ombrage de ce vote et demandé vers 18H30 "la réserve pour l'ensemble des votes pour la suite". Quelque 40 minutes plus tard, M. Eckert annonçait que le gouvernement levait sa réserve, permettant une reprise normale des débats. La réserve signifiait que les amendements étaient discutés mais pas votés jusqu'à ce que le gouvernement lève cette réserve, une fois sûr d'avoir assez de députés socialistes acquis à sa cause dans l'hémicycle. "On n'a jamais vu ça, que l'on puisse réserver sur le vote de plus de 300 amendements. Que l'on cherche à museler le Parlement, c'est inadmissible", avait tempêté l'UMP Jérôme Chartier. En fait, il restait un peu moins de 200 amendements à discuter. En protestation, l'UMP et l'UDI avaient décidé de demander "une suspension de séance systématique à chaque amendement pour protester contre le Parlement bâillonné". Cet épisode a donné lieu à une petite passe d'armes entre députés socialistes sur twitter. Le rapporteur général du Budget, Valérie Rabault, s'interrogeant sur le bien-fondé de ce recours à cette procédure de la réserve se faisait vertement critiquer par l'orateur du groupe socialiste sur le texte Dominique Lefebvre qui avait été son rival malheureux pour devenir rapporteur du Budget. Celui-ci l'accusait de "confondre la discussion sur le projet de loi de finances avec un congrès du PS", ce qui lui valait en retour la critique du député Yann Galut jugeant la "rancune mauvaise conseillère".]]></description>
+   <pubDate>Mon, 20 Oct 2014 22:37:00 +0200</pubDate>
+  </item>
   <item>
    <title>Présidence de l'UDI: Fromantin votera pour Morin</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141020182945.e8fd756l.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141017155723.ga3kwxt0.html</link>
    <description><![CDATA[Les députés ont voté vendredi l'instauration au 1er janvier 2015 d'une TVA à 5,5% sur la billetterie sportive, qui en était exemptée jusqu'ici, ceci à la demande de la Commission européenne. La Commission avait début juillet demandé à la France de soumettre à la TVA "les billets d'entrée aux matches et autres manifestations sportives non soumis à l'impôt sur les spectacles", faute de quoi elle risquait d'être poursuivie dans la justice européenne. La mise en place de cette TVA à taux réduit "sera favorable aux clubs sportifs car ils se feront rembourser la TVA qu'ils payent eux au niveau de 20%", a souligné le secrétaire d'Etat au Budget Christian Eckert lors du débat sur le projet de budget 2015. "Elle est donc complètement absorbable par les clubs qui n'ont pas besoin d'augmenter le prix du billet", a-t-il ajouté. En conséquence, les députés ont supprimé "l'impôt sur les spectacles sportifs" qui s'appliquait seulement dans certaines agglomérations et à des taux variables. Cet impôt était jugé injuste par les clubs professionnels de foot. L'Etat va mettre en place un dispositif pérenne afin de compenser les pertes de recettes pour les collectivités locales causées par la suppression de cet impôt, a précisé M. Eckert.]]></description>
    <pubDate>Fri, 17 Oct 2014 17:57:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Les députés maintiennent la taxe sur les activités polluantes</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/141017151942.insp69nd.html</link>
-   <description><![CDATA[Les députés ont finalement maintenu vendredi la taxe générale sur les activités polluantes (TGAP), qui devait faire partie de la liste des petites taxes supprimées dans le projet de budget 2015. Prévue dans le projet de loi de finances, la suppression de cette taxe, qui pèse sur les installations classées pour la protection de l'environnement (ICPE) et rapporte près de 25 millions d'euros, aurait été malvenue à l'heure de la transition énergétique, a estimé la commission des Finances à l'origine de l'amendement voté en séance. Les députés ont également maintenu deux taxes qui devaient être supprimées, "la contribution aux poinçonnages" sur les bijoux (pour des raisons d'enregistrement des produits) et la "contribution aux revenus locatifs" dont le produit n'est pas si faible que ça, de l'ordre de 100 millions d'euros. Ils ont en revanche supprimé plusieurs autres petites taxes à faible rendement: la taxe sur les trottoirs, sur les appareils automatiques (5 euros par an pour chaque manège, machine à sous, flipper...) ou encore "la contribution de solidarité sur les graines oléagineuses".]]></description>
-   <pubDate>Fri, 17 Oct 2014 17:19:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
