@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Tue, 13 Jan 2015 12:10:01 +0100</pubDate>
+  <pubDate>Tue, 13 Jan 2015 13:10:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Loi Macron: deux semaines de débats en séance prévues à l'Assemblée</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150113120639.qv2cky1b.html</link>
+   <description><![CDATA[Le projet de loi Macron sur la croissance et l'activité, actuellement examiné par les députés en commission, sera débattu en séance pendant deux semaines, du 26 janvier au 6 février, a-t-on appris mardi de source parlementaire. Initialement, le débat sur ce texte défendu par le ministre de l'Economie Emmanuel Macron était prévu sur une seule semaine fin janvier. La date du vote sur l'ensemble du texte, à l'issue des discussions, n'a pas encore été fixée, mais, généralement, ce type de vote solennel intervient le mardi ou le mercredi suivant la fin des débats, ce qui implique que le scrutin devrait avoir lieu le 10 ou le 11 février. La décision d'allonger l'examen du texte d'une semaine a été annoncée mardi par le chef de file du groupe socialiste, Bruno Le Roux, lors de la conférence des présidents de l'Assemblée.]]></description>
+   <pubDate>Tue, 13 Jan 2015 13:06:00 +0100</pubDate>
+  </item>
   <item>
    <title>Commission d'enquête parlementaire sur les attentats: pas encore de décision</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150113110417.yp63c5zl.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150106172820.nrst94tg.html</link>
    <description><![CDATA[Le président de l'Assemblée nationale, Claude Bartolone (PS), a nommé mardi une universitaire, Nathalie Sonnac, membre du Conseil supérieur de l'audiovisuel (CSA), pour un mandat de six ans non renouvelable. Mme Sonnac est professeure à l'université Panthéon-Assas (Paris II), dirigeante de la Chaire d'enseignement et de recherche Audiovisuel et Numérique, économiste des médias et des nouvelles technologies de l'information et de la communication, membre du Conseil national du numérique, présidente de l'Institut Français de Presse. Elle sera prochainement auditionnée par la commission des Affaires culturelles et de l'Education de l'Assemblée nationale. Le président du Sénat Gérard Larcher (UMP) devrait à son tour nommer mercredi un nouveau membre du CSA. Le mandat de trois des membres du CSA, ceux des anciennes journalistes Françoise Laborde et Christine Kelly, et celui d'Emmanuel Gabla, un ingénieur général des mines, prendra fin le 23 janvier à minuit. Conformément au mode de nomination en vigueur alors, ils avaient été désignés par le président de la République, le président du Sénat et le président de l'Assemblée nationale. Toutefois, la loi du 15 novembre 2013 relative à l'indépendance de l'audiovisuel public a modifié la composition et le mode de nomination des membres du CSA, qui doivent passer progressivement de 9 à 7 membres. Dans cette perspective, seules deux nominations sont prévues, pour trois départs. Le CSA passera définitivement à 7 membres en 2017.]]></description>
    <pubDate>Tue, 06 Jan 2015 18:28:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>"Merci pour ce moment" au cinéma: "indigne", selon Olivier Faure</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150106093028.s63j7x74.html</link>
-   <description><![CDATA[Olivier Faure, vice-président du groupe socialiste à l'Assemblée nationale, a qualifié mardi sur Sud Radio d'"indigne" l'adaptation cinématographique du livre "Merci Pour ce moment", dans lequel Valérie Trierweiler raconte son histoire d'amour avec François Hollande. "C'est indigne, car ce n'est pas seulement l'homme François Hollande qu'on atteint, c'est la fonction présidentielle", a affirmé le député. Selon Olivier Faure, "on est passé d'une histoire de coeur, de femme peut-être blessée, femme amoureuse, à une histoire de femme intéressée qui aujourd'hui cherche à tirer le fil d'une histoire qui lui rapporte beaucoup". "Merci pour cet argent", a-t-il ironisé. Le député de Seine-et-Marne s'est également interrogé sur la date de sortie du film dans l'optique de la prochaine campagne présidentielle. "On a un agenda qui laisse penser que ce film sortira en 2017 et qu'on est dans une affaire de sinistre vengeance et d'argent", s'est-il agacé. La productrice et scénariste du film, Saïda Jawad, amie proche de Valérie Trierweiler, affirme néanmoins dans les colonnes du Parisien mardi que le film sortira "après l'élection présidentielle de 2017".]]></description>
-   <pubDate>Tue, 06 Jan 2015 10:30:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
