@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Tue, 13 Jan 2015 15:00:01 +0100</pubDate>
+  <pubDate>Tue, 13 Jan 2015 15:10:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Assemblée: ouverture de la séance d'hommage aux victimes</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150113140426.73d9rs36.html</link>
+   <description><![CDATA[La séance d'hommage à l'Assemblée nationale aux victimes des attentats de la semaine dernière s'est ouverte mardi après-midi, avant un discours de Manuel Valls sur la "réponse exceptionnelle" à apporter au terrorisme. Le président PS de l'Assemblée, Claude Bartolone, a commencé son discours d'ouverture de cette séance d'hommage en citant les noms des 17 victimes des attaques à Charlie Hebdo, Montrouge et l'hypermarché casher de la Porte de Vincennes. Les députés observeront une minute de silence avant que chaque président de groupe politique ne prenne la parole. Puis le Premier ministre Manuel Valls s'exprimera.]]></description>
+   <pubDate>Tue, 13 Jan 2015 15:04:00 +0100</pubDate>
+  </item>
   <item>
    <title>L'UDI votera pour la prolongation de l'intervention en Irak</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150113135733.igx7tiel.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150107215446.3e77wewy.html</link>
    <description><![CDATA[Une cérémonie d'hommage et de recueillement aux douze victimes de l'attentat contre Charlie hebdo se déroulera jeudi midi dans la cour d'honneur de l'Assemblée nationale, dans le cadre de la journée de deuil national décrété par François Hollande. "Le président de l'Assemblée nationale, Claude Bartolone, réunira, ce jeudi 8 janvier à 12h, pour un moment d'hommage et de recueillement, le Bureau de l'Assemblée nationale, les présidents des groupes politiques, les parlementaires et l'ensemble des fonctionnaires de l'institution dans la Cour d'honneur du Palais Bourbon", a annoncé mercredi soir la présidence de l'Assemblée dans un communiqué. La cérémonie sera ouverte à la presse.]]></description>
    <pubDate>Wed, 07 Jan 2015 22:54:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Appel de Bartolone et des présidents de tous les groupes politiques à "l'union nationale"</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150107185648.ygk7gybn.html</link>
-   <description><![CDATA[Le président de l'Assemblée nationale Claude Bartolone (PS) et les chefs de file de tous les groupes politiques ont appelé mercredi à "l'union nationale" pour "défendre la liberté sous toutes ses formes", après l'attentat sanglant contre Charlie Hebdo. Dans un communiqué commun, ils affirment "l'union de toutes les forces républicaines pour défendre sans concession et sans faiblesse cette France que nous aimons tant, qui a fait de notre Nation ce qu'elle est et ce pourquoi elle est aimée". "Le massacre perpétré dans les locaux du journal Charlie Hebdo met la communauté nationale et ses représentants au défi de la démocratie et de ses valeurs" écrivent-ils. "L'union nationale doit se faire autour de la mémoire des personnes lâchement assassinées, journalistes et policiers, de la solidarité envers les personnes blessées et envers toutes les familles des victimes", poursuit le communiqué. "L'union nationale doit se faire autour de l'affirmation de valeurs et principes au fondement de notre République: la liberté sous toutes ses formes, et notamment la liberté d'expression, la liberté d'information, la liberté de comprendre, la laïcité", ajoute le texte. Cette déclaration est signée, outre Claude Bartolone, des présidents de groupe André Chassaigne (Gauche démocrate et républicaine, à majorité Front de gauche), Christian Jacob (UMP), Bruno Le Roux (Socialiste, républicain et citoyen), Barbara Pompili et François de Rugy (écologiste), Roger-Gérard Schwartzenberg (RRDP: radical, républicain, démocrate et progressiste, à majorité PRG) et Philippe Vigier (UDI). Le président de la Région et les présidents de tous les groupe politiques du Conseil régional d'Ile-de-France ont pris une initiative similaire, lançant un appel commun "à la mobilisation républicaine face à l'acte barbare et lâche perpétré" contre Charlie Hebdo, rendant hommage aux victimes, personnels de l'hebdomadaire satirique et forces de l'ordre. "Nous appelons l'ensemble des républicains, quelles que soient leur nationalité, leurs origines, leurs convictions religieuses et politiques, à refuser les amalgames et à se mobiliser pour rappeler que la République ne cèdera pas face au terrorisme", écrivent ensemble Jean-Paul Huchon (PS), Gilles-Maurice Bellaïche (groupe PSR), Valérie Pécresse (groupe UMP), Mounir Satouri, (groupe EELV), Laurent Lafon (groupe UDI), Gabriel Massou(groupe FDG - communiste), Muriel Guenoux (groupe PRG-MDP) et Pascale Le Néouannic (groupe FDG - mélenchoniste).]]></description>
-   <pubDate>Wed, 07 Jan 2015 19:56:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
