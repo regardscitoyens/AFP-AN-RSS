@@ -1,4 +1,4 @@
-AFN AN RSS
+AFP AN RSS
 ==========
 
 RSS pour la [page des dépèches AFP Assemblée nationale](http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html).
