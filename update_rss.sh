@@ -52,7 +52,7 @@ cat recent.html     |
     day=$(echo $content | sed 's/ heure de Paris - .*$//i' | sed 's/^[^0-9]\+, //i' | sed 's/(AFP) - //i' |
             sed 's/^\([0-9]\+\) \([a-z]\+\) 20\([0-9]\+\) \([0-9]\+\)h\([0-9]\+\)/\2 \1 20\3 \4:\5/i' |
             sed 's/avr/apr/i' | sed 's/fév/feb/i' | sed 's/mai/may/i' | sed 's/juin/jun/i' |
-            sed 's/juil/jul/i' | sed 's/août/aug/i' | sed 's/déc/dec/i')
+            sed 's/juil/jul/i' | sed 's/août/aug/i' | sed 's/déc/dec/i' | sed 's/mars/mar/i')
     date=$(date -R -d "$day")
     echo "  <item>
    <title>$title</title>
