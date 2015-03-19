@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Thu, 19 Mar 2015 17:30:01 +0100</pubDate>
+  <pubDate>Thu, 19 Mar 2015 17:40:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Loi Santé: les députés suppriment la vaccination par les pharmaciens</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150319163323.xmgd7lom.html</link>
+   <description><![CDATA[Les députés ont supprimé jeudi du projet de loi Santé l'article qui prévoyait que les pharmaciens pourraient pratiquer certaines vaccinations, la ministre de la Santé Marisol Touraine souhaitant d'abord expérimenter la mesure. Le rapporteur Jean-Louis Touraine (PS) a lui-même suggéré à la commission des Affaires sociales cette suppression, que défendaient aussi des députés UMP et du Front de gauche, les conditions pour ces vaccinations n'étant pas "réunies" selon lui. "Les pharmaciens ne disposent ni des compétences, ni de la formation indispensables à la réalisation de vaccins", dit cet élu du Rhône, professeur de médecine de profession. "L'objectif est de prendre à bras-le-corps la question de la couverture vaccinale de notre pays" mais la mesure proposée "a suscité des inquiétudes", notamment chez les médecins, a dit la ministre, promettant "des expérimentations".]]></description>
+   <pubDate>Thu, 19 Mar 2015 17:33:00 +0100</pubDate>
+  </item>
   <item>
    <title>Biodiversité: feu vert de l'Assemblée à une action accrue de l'Etat pour les mangroves et récifs coralliens</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150319161855.vwye0l7d.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150319013544.tgfqx052.html</link>
    <description><![CDATA[Les députés ont supprimé en commission dans la nuit de mercredi à jeudi le délai de réflexion de sept jours imposé aux femmes souhaitant une interruption volontaire de grossesse (IVG) dans un amendement au projet de loi Santé. Actuellement, deux consultations médicales sont obligatoires avant l'IVG, avec un délai de réflexion d'une semaine entre les deux. Il peut cependant être réduit à 48 heures en cas d'urgence, c'est-à-dire lorsque le délai légal de 12 semaines de grossesse approche. Un autre amendement la présidente de la délégation aux Droits des femmes Catherine Coutelle (PS) proposait de supprimer la clause de conscience permettant aux médecins de refuser de pratiquer une IVG. Elle estimait en effet cette disposition spécifique à l'avortement redondante avec la clause de conscience générale, s'appliquant à tous les actes médicaux et inscrite dans le Code de la santé publique La ministre de la Santé Marisol Touraine a émis "un avis résolument défavorable" à cet amendement, jugeant qu'il ne fallait pas "raminer de débat éminament symbolique dans un contexte de tensions sur un certain nombre de sujets de société". Face à cette réaction de la ministre, Mme Coutelle a accepté de retirer son amendement.]]></description>
    <pubDate>Thu, 19 Mar 2015 02:35:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Biodiversité: les députés encadrent l'accès aux ressources génétiques naturelles</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150318230830.ia4k9ase.html</link>
-   <description><![CDATA[Les députés ont voté mercredi soir dans le cadre du projet de loi sur la biodiversité l'article traduisant dans la loi française le protocole international de Nagoya, qui réglemente l'accès aux ressources génétiques naturelles et le partage de leur utilisation. Selon la ministre de l'écologie Ségolène Royal, "la France est en voie de se doter de la législation la plus avancée au monde sur la protection et la valorisation des ressources génétiques issues de la nature". Si une société commerciale exploite une molécule - issue de la recherche sur des plantes, des animaux, des bactéries - et que son exploitation lui permet de développer un marché commercial, elle fera bénéficier le territoire d'une partie des avantages d'abord en nature (formation, études scientifiques gratuites, recrutements, etc.), mais aussi parfois financièrement, selon la ministre. "C'est un retour juste pour éviter la biopiraterie. Les secteurs cosmétiques, agroalimentaires et pharmaceutiques sont particulièrement concernés", a-t-elle estimé. La future Agence française pour la biodiversité, qui verra le jour en 2016, comprendra dans ses missions la prévention de la biopiraterie. Selon le gouvernement, 9% des brevets européens en 2012 étaient issus des ressources génétiques. A l'échelle internationale, 25 à 50% des médicaments seraient issus des ressources génétiques sur un marché total de 640 milliards de dollars.]]></description>
-   <pubDate>Wed, 18 Mar 2015 00:08:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
