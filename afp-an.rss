@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Wed, 15 Apr 2015 10:20:01 +0200</pubDate>
+  <pubDate>Wed, 15 Apr 2015 12:10:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Vote obligatoire: 56% des Français seraient d'accord (Harris interactive)</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150415100753.mkxpvvfs.html</link>
+   <description><![CDATA[56% des Français approuveraient l'instauration du vote obligatoire, une majorité qui passerait à 67% si cette réforme s'accompagnait de la reconnaissance du vote blanc au même titre que les votes exprimés, selon un sondage Harris interactive publié mercredi. Ce sondage, réalisé pour la Fondation Jean Jaurès, a été rendu public lors d'une conférence de presse du président PS de l'Assemblée nationale Claude Bartolone, qui propose cette mesure dans son rapport sur "l'engagement citoyen et l'appartenance républicaine" remis à François Hollande. "Aujourd'hui, les Français sur les listes électorales ont la possibilité, lorsque sont organisées des élections, de voter ou de s'abstenir. Seriez-vous favorable ou opposé au fait de rendre le vote obligatoire en France?" 56% des sondés ont répondu y être favorables (26% "tout à fait" et 30% "plutôt") et 44% opposés (19% "tout à fait" et 25% "plutôt"). Lorsque la proposition d'instaurer un vote obligatoire est assortie de la reconnaissance du vote blanc au même titre que les autres votes exprimés, la proportion de personnes favorables monte à 67%. "Si le vote devenait obligatoire en France, les citoyens n'allant pas voter devraient-ils être sanctionnés?" : 54% des sondés ont répondu oui et 46% non. Sondage réalisé en ligne du 3 au 7 avril auprès d'un échantillon de 1.322 personnes, représentatif de la population française âgée d'au moins 15 ans (méthode des quotas). vdr/ic/mat/it HARRIS]]></description>
+   <pubDate>Wed, 15 Apr 2015 12:07:00 +0200</pubDate>
+  </item>
   <item>
    <title>Engagement citoyen: Bartolone propose le vote obligatoire</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150415081041.z5654nbz.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150414121354.lvzv1usd.html</link>
    <description><![CDATA[Le porte-parole du groupe PS à l'Assemblée Hugues Fourage a ironisé mardi à propos des hausses d'impôts décidées dans plusieurs grandes villes dirigées par la droite, qui témoignent de "la schizophrénie de l'UMP", selon lui "Qu'on ne vienne pas nous refaire le coup de la baisse des dotations locales ! L'UMP veut diminuer de 150 milliards les dépenses publiques mais ses élus ne sont pas capables de faire des économies", a déclaré le député de Vendée lors d'un point-presse. "L'UMP avait dit aux municipales: +avec nous, pas d'augmentation d'impôt + Il y a une forme de schizophrénie, de la contradiction dans leur discours", a-t-il jugé. Les conseils municipaux de Toulouse et de Bordeaux viennent de voter des hausses d'impôt locaux respectivement de 15% et 5%.]]></description>
    <pubDate>Tue, 14 Apr 2015 14:13:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Loi santé: des médecins manifestent devant l'Assemblée avant le vote solennel</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150414105139.xfgjwh2v.html</link>
-   <description><![CDATA[Une quarantaine de médecins se sont rassemblés mardi devant l'Assemblée nationale pour manifester leur colère face au projet de loi santé qui doit être soumis dans l'après-midi au vote solennel des députés, a constaté une journaliste de l'AFP. La généralisation de la dispense d'avance de frais lors d'une consultation chez un professionnel de santé est la mesure qui cristallise l'hostilité des médecins. Ils estiment que le dispositif va accroître leur charge administrative et qu'il leur faudra vérifier si les droits des patients sont à jour ou courir après l'Assurance maladie ou les complémentaires santé pour être payés. "J'aimerais avoir un peu de temps pour soigner mon malade", résume Jean-Paul Hamon, président de la Fédération des médecins de France (FMF), l'un des syndicats représentatifs de la profession. "Ce n'est pas une loi de santé que (les députés, ndlr) vont voter, c'est une loi de société" qui va "changer la vie des gens" et permettre à l'Etat d'être "branché sur nos comptes" et de pouvoir "ponctionner les franchises", a dénoncé pour sa part Eric Henry, président du syndicat des médecins libéraux. Les franchises et participations forfaitaires, qui représentent 1,5 milliard d'euros, ont été supprimées pour les bénéficiaires de l'ACS (aide à la complémentaire santé) pour lesquels le tiers payant sera appliqué dès le 1er juillet 2015. Les autres patients devront autoriser l'Assurance maladie à prélever ces sommes directement sur leurs comptes bancaires. Les médecins préparent une réponse "plus violente" et "plus globale", assure Didier Legeais, vice-président de l'Union des chirurgiens de France, selon lequel la riposte s'organise avec les autres professionnels de santé. Selon ces représentants syndicaux, des médecins s'apprêtent à se déconventionner, autour de Quimper et Tarbes notamment, ce qui signifierait pour leurs patients qu'ils ne seraient plus remboursés par l'Assurance maladie.]]></description>
-   <pubDate>Tue, 14 Apr 2015 12:51:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
