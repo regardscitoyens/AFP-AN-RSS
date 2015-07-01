@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Wed, 01 Jul 2015 16:50:01 +0200</pubDate>
+  <pubDate>Wed, 01 Jul 2015 18:10:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Réforme territoriale: l'Assemblée rend les transports scolaires aux départements</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150701160008.c1gnb65u.html</link>
+   <description><![CDATA[L'Assemblée nationale a voté mercredi, en deuxième lecture, le volet transports interurbains du projet de loi sur la réforme territoriale, après avoir rendu la gestion des transports scolaires aux départements, contre l'avis du gouvernement mais comme l'avait fait le Sénat. Le projet de loi sur la nouvelle organisation territoriale de la République (NOTRe), qui réforme la répartition des compétences entre collectivités territoriales, prévoit le transfert aux régions des transports interurbains. Alors que le Sénat, majoritairement à droite, avait retiré à la région la compétence sur les transports scolaires pour la rendre au département, la commission des Lois de l'Assemblée avait rendu, mi-juin, cette compétence aux régions. Mais des députés de tous bords ont obtenu dans la nuit de mardi à mercredi le retour de la gestion des transports scolaires aux départements -qui vont continuer à gérer les collèges-, par le vote d'amendements identiques auxquels le gouvernement et le rapporteur étaient défavorables.]]></description>
+   <pubDate>Wed, 01 Jul 2015 18:00:00 +0200</pubDate>
+  </item>
   <item>
    <title>Faure (PS): vers un "droit de suggestion citoyen" systématique à l'Assemblée</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150701144502.6zq75c1i.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150630115022.41cldvmm.html</link>
    <description><![CDATA[Le président du groupe UDI à l'Assemblée, Philippe Vigier, ne "voit pas d'autre issue que la sortie de la Grèce" de la zone euro, a-t-il indiqué lors d'un point presse. "On est dans la phase finale (...) La Grèce ne peut pas dire: je rembourserai et ne pas tenir parole. On s'achemine vers la sortie de la Grèce de la zone euro", a-t-il estimé. Lors de la séance des questions au gouvernement mardi après-midi, le député UDI Charles de Courson interrogera Manuel Valls sur "ce que compte faire le gouvernement" en cas de réponse négative au référendum dimanche, a ajouté M. Vigier.]]></description>
    <pubDate>Tue, 30 Jun 2015 13:50:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Grèce: Chassaigne critique le double langage de la France</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150630114641.tyytih1v.html</link>
-   <description><![CDATA[Le chef de file du Front de gauche à l'Assemblée André Chassaigne a critiqué mardi le langage du gouvernement français à propos de la Grèce, "volontariste à l'Assemblée mais beaucoup plus timide à l'Eurogroupe". "Il faut que la France s'affirme beaucoup plus clairement. Il n'y a pas de solution possible sans restructuration de la dette", a-t-il dit lors d'un point presse. M. Chassaigne a salué "le recours complètement légitime" au référendum d'Alexis Tsipras qui "fait honneur à la démocratie".]]></description>
-   <pubDate>Tue, 30 Jun 2015 13:46:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
