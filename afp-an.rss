@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Fri, 10 Jul 2015 16:30:01 +0200</pubDate>
+  <pubDate>Fri, 10 Jul 2015 18:30:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Accord sur la réforme territoriale : accueil réservé des collectivités</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150710162011.ge09ggfa.html</link>
+   <description><![CDATA[Les collectivités territoriales restent réservées après l'accord conclu jeudi par les sénateurs et les députés sur la répartition des compétences entre communes, départements et régions, dans le cadre du projet de réforme territoriale. L'Association des maires de France (AMF) s'est réjouie vendredi du retrait de l'élection au suffrage universel direct des conseillers communautaires, qui menaçait selon elle l'existence même des communes. Néanmoins, le texte reste "insatisfaisant" en raison de sa philosophie qui tourne le dos "à la démocratie de proximité et sa complexité", écrit l'AMF, qui appelle à une application "pragmatique" des dispositions par les préfets. L'Assemblée des départements de France (ADF), regrette pour sa part une réponse "trop partielle aux attentes des départements". En décidant de doter les régions de 50% de la Cotisation sur la valeur ajoutée des entreprises (CVAE) au détriment des départements, "le gouvernement amplifie son asphyxie des départements avec un incroyable cynisme", écrit le président de l'ADF, Dominique Bussereau, dans un communiqué. Sénateurs et députés sont parvenus à un accord lors de l'examen en commission mixte paritaire (CMP) du projet de loi NOTRe sur la nouvelle organisation territoriale de la République. Le gouvernement a salué cet accord qui témoigne, selon lui, "de la volonté des parlementaires de permettre aux collectivités locales d'exercer leurs compétences dans un cadre clarifié et stable". Le Sénat et l'Assemblée devront encore voter d'ici la fin de la session parlementaire sur cette version commune.]]></description>
+   <pubDate>Fri, 10 Jul 2015 18:20:00 +0200</pubDate>
+  </item>
   <item>
    <title>La loi Macron formellement adoptée par le Parlement</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150710142010.f6qr3hye.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150703001139.esezsz87.html</link>
    <description><![CDATA[Les députés ont approuvé jeudi soir en deuxième lecture le projet de loi NOTRe (Nouvelle organisation territoriale de la République) qui fixe la répartition des compétences entre communes, intercommunalités, départements et régions. Ils doivent maintenant trouver un compromis avec les sénateurs en commission mixte paritaire. A l'initiative du gouvernement qui a demandé une seconde délibération, les députés ont voté une nouvelle fois pour redonner la gestion des transports scolaires aux régions alors que mercredi ils l'avaient confié aux départements, comme le souhaitait le Sénat mais contre l'avis du gouvernement. Outre le transport scolaire, les deux chambres divergent notamment sur les intercommunalités. Les députés ont de nouveau voté en faveur d'un seuil de l'intercommunalité à 20.000 habitants là où le Sénat l'avait abaissé à 5.000. Ils ont également rétabli le principe de l'élection au suffrage universel direct des conseillers intercommunaux à l'horizon 2020, dont les sénateurs ne veulent pas entendre parler. En cas d'échec de la commission mixte paritaire, les deux chambres procéderont chacune à une nouvelle lecture avant l'adoption du texte par l'Assemblée attendue avant le début de la coupure estivale prévue le 24 juillet.]]></description>
    <pubDate>Fri, 03 Jul 2015 02:11:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Les députés approuvent le projet de loi Notre en seconde lecture</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/150703000526.bwiyerld.html</link>
-   <description><![CDATA[Les députés ont approuvé jeudi soir en deuxième lecture le projet de loi NOTRe (Nouvelle organisation territoriale de la République) qui fixe la répartition des compétences entre communes, intercommunalités, départements et régions. Ils doivent maintenant trouver un compromis avec les sénateurs en commission mixte paritaire. A l'initiative du gouvernement qui a demandé une seconde délibération, les députés ont voté une nouvelle fois pour redonner la gestion des transports scolaires aux régions alors que mercredi ils l'avaient confié aux départements, comme le souhaitait le Sénat mais contre l'avis du gouvernement. Outre le transport scolaire, les deux chambres divergent notamment sur les intercommunalités. Les députés ont de nouveau voté en faveur d'un seuil de l'intercommunalité à 20.000 habitants là où le Sénat l'avait abaissé à 5.000. Ils ont également rétabli le principe de l'élection au suffrage universel direct des conseillers intercommunaux à l'horizon 2020, dont les sénateurs ne veulent pas entendre parler. En cas d'échec de la commission mixte paritaire, les deux chambres procéderont chacune à une nouvelle lecture avant l'adoption du texte par l'Assemblée attendue avant le début de la coupure estivale prévue le 24 juillet.]]></description>
-   <pubDate>Fri, 03 Jul 2015 02:05:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
