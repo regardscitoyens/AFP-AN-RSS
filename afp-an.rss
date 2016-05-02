@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Mon, 02 May 2016 19:30:02 +0200</pubDate>
+  <pubDate>Mon, 02 May 2016 23:50:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Loi Travail: "Je refuse de faire planer la menace" du 49.3 (Khomry)</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/160502214101.tpkwbzh8.html</link>
+   <description><![CDATA[La ministre du Travail Myriam El Khomry se dit "impatiente" de défendre à partir de mardi la loi Travail à l'Assemblée nationale, mais "refuse de faire planer la menace" du recours à l'article 49-3 de la Constitution pour imposer son texte. Dans une interview à paraître mardi dans Le Parisien/Aujourd'hui en France, la ministre note que "la Constitution prévoit cet outil" de l'article 49-3, mais "je refuse de faire planer la menace". "Je ne suis pas dans cette perspective" d'avoir recours à l'article en question, poursuit Mme El Khomry, qui attend de voir "comment les choses se déroulent" au Parlement. Interrogée sur les 40 voix manquantes pour voter le texte, la ministre fait le constat: "C'est un pointage à une date dite. Le respect que je porte à l'Assemblée me conduit à penser que du dialogue et de l'échange peut découler une évolution majoritaire. Mon objectif est de convaincre les parlementaires de la majorité. Ce texte est un acte de confiance dans le dialogue social au plus près du terrain". A propos des violences qui ont eu lieu à l'issue du défilé du 1er mai à Paris, et souvent après les rassemblements de Nuit debout sur la place de la République dans la capitale, Mme El Khomry souligne qu'"il est important de ne pas confondre manifestants et casseurs. Les manifestants font usage d'un droit, les casseurs veulent renverser les institutions. Ils sont dans une démarche destructrice, qui n'a rien à voir avec le contenu du projet de loi". "L'heure du Parlement est venue et permettra d'enrichir ce texte. Faut-il céder à la rue et retirer le texte ? Non", affirme encore la ministre du Travail.]]></description>
+   <pubDate>Mon, 02 May 2016 23:41:00 +0200</pubDate>
+  </item>
   <item>
    <title>Télévision: une député demande un rapport sur l'élargissement de la TNT en Outre-mer</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/160502171959.vup8co2h.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/160429074907.3uofsrxq.html</link>
    <description><![CDATA[Bruno Le Roux, chef des députés socialistes "Oui, ça va mieux. Tout simplement parce que les chiffres commencent les uns après les autes à s'entraîner dans la bonne direction. Pas simplement l'un d'entre eux, mais tous les chiffres commencent à être alignés (...) et la consommation porte la croissance, la croissance porte la baisse du chômage". "C'est le résultat d'une situation qui s'améliore dans notre pays. Donc ça va mieux pour le pays. Je veux maintenant que très vite nous puissions montrer que ça va mieux pour les Français".]]></description>
    <pubDate>Fri, 29 Apr 2016 09:49:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Adoption définitive du projet de loi réduisant le nombre d'actionnaires dans les sociétés non cotées</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/160428112734.nhvpblpu.html</link>
-   <description><![CDATA[Le parlement a définitivement adopté jeudi le projet de loi ratifiant l'ordonnance qui réduit de sept à deux le nombre minimal d'actionnaires dans les sociétés anonymes non cotées, par un vote conforme du Sénat à celui de l'Assemblée nationale. L'ordonnance du 10 septembre 2015 avait été prise sur la base de la loi du 20 décembre 2014 relative à la simplification de la vie des entreprises. Celle-ci habilitait notamment le gouvernement à diminuer le nombre minimal d'actionnaires dans les sociétés anonymes non cotées.]]></description>
-   <pubDate>Thu, 28 Apr 2016 13:27:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
