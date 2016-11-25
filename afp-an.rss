@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Thu, 24 Nov 2016 19:50:01 +0100</pubDate>
+  <pubDate>Fri, 25 Nov 2016 09:10:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Poursuivant son virage numérique, l'Assemblée héberge un "data camp" samedi</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/161125080008.wrv5isa2.html</link>
+   <description><![CDATA[Sur les rails du numérique et de la participation citoyenne, l'Assemblée nationale est l'hôte samedi pour la première fois d'un "data camp" pour imaginer de nouveaux usages des données parlementaires. Une centaine de participants, dont l'association Regards Citoyens, sont inscrits à cette journée initiée par le président de l'Assemblée Claude Bartolone (PS), en coopération avec Etalab, la mission gouvernementale chargée de l'ouverture des données publiques. Installés dans la galerie des Fêtes et constitués en équipes, ces développeurs, "data-scientists" (experts en gestion de données) ou simples citoyens, pourront notamment travailler sur la participation aux consultations publiques organisées par l'Assemblée nationale ainsi que sur la fabrique de la loi. "Après avoir ouvert son portail +open data+ en juin 2015, l'Assemblée poursuit ainsi son engagement en faveur de l'ouverture des données" et prépare le 4e sommet mondial du Partenariat pour un gouvernement ouvert (PGO), dont l'une des thématiques sera l'ouverture des Parlements à travers le monde, et qui se tiendra à Paris du 7 au 9 décembre, selon un communiqué de l'Assemblée.]]></description>
+   <pubDate>Fri, 25 Nov 2016 09:00:00 +0100</pubDate>
+  </item>
   <item>
    <title>Primaire de la gauche: Laurence Dumont rallie Benoît Hamon</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/161124184450.ej4fzp3n.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/161123180805.qtyfvg5y.html</link>
    <description><![CDATA[L'Assemblée nationale a voté mercredi, contre l'avis du gouvernement, l'autorisation, à titre expérimental, de la préparation et du passage de l'épreuve théorique du permis de conduire pendant le temps scolaire, dans le cadre du projet de loi Egalité et citoyenneté. Contre l'avis également de la rapporteure Valérie Corre (PS), les députés ont adopté des amendements du socialiste Jean-Louis Bricout et du radical de gauche Jean-Noël Carpentier pour prévoir une telle expérimentation, pendant trois ans maximum. Le ministre de la Ville Patrick Kanner a justifié son opposition par le coût de la mesure et par le fait que le projet de loi a déjà intégré que le compte personnel de formation (CPF) pourra être utilisé pour financer tout ou partie du passage du permis de conduire. Les députés ont également adopté un amendement porté par le socialiste Gilles Savary, ancien rapporteur du volet transports de la loi Macron, créant un livret d'épargne "Permis de conduire", là aussi malgré un avis défavorable du gouvernement. M. Kanner a jugé "bien superflu" de "créer un nouveau livret d'épargne sans avantages fiscaux", alors qu'existe déjà le livret A.]]></description>
    <pubDate>Wed, 23 Nov 2016 19:08:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Affiches contre le sida: Touraine fustige des comportements dignes d'un "ordre réactionnaire"</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/161123155235.3e6a4e1y.html</link>
-   <description><![CDATA[La ministre de la Santé, Marisol Touraine, a fustigé mercredi à l'Assemblée nationale des comportements dignes "d'un ordre réactionnaire d'un autre âge", après la demande d'élus de retirer les affiches d'une campagne de prévention du sida montrant des homosexuels. "Je veux vous dire mon indignation, ma colère face aux réactions de certains élus sur la campagne de prévention du sida, comme si la santé publique devait devenir prisonnière, otage, d'un ordre réactionnaire d'un autre âge et d'un autre temps", a déclaré Mme Touraine. "Nous devons dire non à l'homophobie, oui à la tolérance, oui à une société de liberté, de respect, de bienveillance", a-t-elle poursuivi, dénonçant sans la nommer les propos d'Isabelle Le Callennec, députée LR et soutien de François Fillon. Mardi, la députée avait estimé que la campagne gouvernementale était "très suggestive". Interrogée sur le "message" véhiculé, Mme Le Callennec avait sous-entendu qu'il incitait à l'homosexualité. "En tout cas les gens qui nous appellent, c'est les remarques qu'ils font, il faut les entendre", avait-elle dit. "Comment s'étonner que se déversent sur les réseaux sociaux des torrents de haine", a répondu mercredi Mme Touraine. Une dizaine de villes sur les 130 où la campagne est diffusée ont demandé le retrait des affiches. En réaction, la ministre de la Santé a annoncé saisir la justice administrative, "après la censure par certains maires de la campagne de prévention du VIH".]]></description>
-   <pubDate>Wed, 23 Nov 2016 16:52:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
