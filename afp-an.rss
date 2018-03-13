@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Sun, 11 Mar 2018 00:10:01 +0100</pubDate>
+  <pubDate>Tue, 13 Mar 2018 10:30:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Hugues Renson (LREM) exprime "des réserves" sur le contingentement des amendements</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/180313092819.sfeds5r0.html</link>
+   <description><![CDATA[Le vice-président de l'Assemblée nationale, Hugues Renson, a exprimé mardi "des réserves" sur le projet de réforme des institutions qui prévoit un contingentement du nombre d'amendements par lecture et par groupe politique, en estimant que "le droit d'amendement est personnel". "La question du contingentement en fonction de l'importance des groupes politiques pose évidemment une question", a indiqué le député de La République en Marche de Paris sur Radio Classique. "J'attends de voir ce qui nous sera proposé, mais j'ai des réserves sur ce sujet-là", a-t-il ajouté, en faisant valoir que "le droit d'amendement, il est précisément tout à fait personnel". "Un parlementaire a le droit d'amender un texte au motif qu'il est parlementaire, de l'opposition comme de la majorité, et qu'il est élu de la République", a rappelé le vice-président de l'Assemblée nationale, qui a appelé à "discuter". "Je crois qu'aujourd'hui, l'intention qui est d'accélérer le débat parlementaire pour s'épargner l'obstruction et, en réalité, faire de nos débats quelque chose de plus efficace, de plus intéressant (...) me paraît quand même aller dans le bon sens", a encore estimé M. Renson. L'exécutif a mis sur la table la semaine dernière ses propositions de réforme des institutions. Outre le projet de contingentement par groupe, il prévoit un plus fort encadrement de l'enregistrement des amendements. Ils seraient irrecevables en cas d'"absence de lien direct" avec le texte de loi, d'"absence de caractère normatif" ou de "violation du domaine du règlement". Sur ce dernier point, le député s'est dit favorable à la réforme, notamment afin d'empêcher les phénomènes d'obstruction parlementaire.]]></description>
+   <pubDate>Tue, 13 Mar 2018 09:28:00 +0100</pubDate>
+  </item>
   <item>
    <title>Constitution: Debré pointe le "mal français" consistant à "changer sans cesse les règles" (interview au JDD)</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/180310230117.zp2tduzo.html</link>
@@ -34,7 +40,7 @@
    <title>Budget: redistribuer le surplus aux Ehpad et aux territoires désindustrialisés (Giraud, LREM)</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/180309100435.miz8j9j8.html</link>
    <description><![CDATA[]]></description>
-   <pubDate>Sun, 11 Mar 2018 00:00:00 +0100</pubDate>
+   <pubDate>Tue, 13 Mar 2018 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Budget: redistribuer le surplus aux Ehpad et territoires désindustrialisés (Giraud, LREM)</title>
@@ -70,31 +76,25 @@
    <title>Transports scolaires: l'Assemblée rejette un texte PCF visant la gratuité</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/180308175738.spabst2w.html</link>
    <description><![CDATA[]]></description>
-   <pubDate>Sun, 11 Mar 2018 00:00:00 +0100</pubDate>
+   <pubDate>Tue, 13 Mar 2018 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Réforme des institutions: possible accord si "déclic de confiance" avec l'exécutif (Larcher)</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/180308173654.0ug9ok89.html</link>
    <description><![CDATA[]]></description>
-   <pubDate>Sun, 11 Mar 2018 00:00:00 +0100</pubDate>
+   <pubDate>Tue, 13 Mar 2018 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Constitution: Clément (LREM) critique des propositions pouvant "affaiblir" le Parlement</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/180308170318.1oh90bcp.html</link>
    <description><![CDATA[]]></description>
-   <pubDate>Sun, 11 Mar 2018 00:00:00 +0100</pubDate>
+   <pubDate>Tue, 13 Mar 2018 00:00:00 +0100</pubDate>
   </item>
   <item>
    <title>Constitution: les parlementaires "dans le collimateur" de l'exécutif" (Retailleau, LR)</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/180308160947.fdiren2b.html</link>
    <description><![CDATA[]]></description>
-   <pubDate>Sun, 11 Mar 2018 00:00:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Mélenchon: Rugy, "le premier à faire de la propagande antiparlementaire"</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/180308160102.4ytyr66x.html</link>
-   <description><![CDATA[]]></description>
-   <pubDate>Sun, 11 Mar 2018 00:00:00 +0100</pubDate>
+   <pubDate>Tue, 13 Mar 2018 00:00:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
