@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Tue, 02 Oct 2018 14:40:01 +0200</pubDate>
+  <pubDate>Tue, 02 Oct 2018 15:30:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Démission refusée de Collomb: "chaque ministre doit se consacrer pleinement à sa tâche" (Philippe)</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/181002132500.5nkb0567.html</link>
+   <description><![CDATA["Chaque ministre qui compose ce gouvernement doit se consacrer pleinement à sa tâche", a souligné mardi Édouard Philippe, interpellé après la démission, finalement refusée, du ministre de l'Intérieur Gérard Collomb. "Quand il s'agit de la sécurité des Français, jamais il n'y aura d'hésitation de la part du gouvernement", a insisté le Premier ministre devant l'Assemblée nationale. Gérard Collomb, absent mardi de la séance de questions au gouvernement, avait présenté lundi soir sa démission à Emmanuel Macron, après avoir annoncé qu'il entendait quitter le gouvernement en mai prochain pour préparer une nouvelle candidature à la mairie de Lyon l'année suivante.]]></description>
+   <pubDate>Tue, 02 Oct 2018 13:25:00 +0200</pubDate>
+  </item>
   <item>
    <title>Collomb ne peut pas continuer à l'Intérieur, estime l'opposition à l'Assemblée</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/181002123434.15cuansf.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/180928234637.w36hjtn2.html</link>
    <description><![CDATA[L'Assemblée nationale a adopté un amendement portant de 60 à 90 jours le délai d'autorisation de découvert bancaire pour les petites et moyennes entreprises (PME), dans la nuit de vendredi à samedi lors de l'examen du projet de loi Pacte. "On sait pertinemment, pour avoir été en entreprise, qu'à 60 jours c'est beaucoup trop court au regard de certains délais de règlement des fournisseurs", a expliqué la députée Valérie Oppelt (LREM), première signataire de cet amendement. Celui-ci a reçu un avis favorable du rapporteur thématique Jean-Noël Barrot (MoDem) qui a estimé que l'allongement de 30 jours "n'obére pas la capacité des entreprises d'obtenir des financements de la part des banques". La secrétaire d'état à l'Economie et aux Finances Delphine Gény-Stephann a au contraire vu dans cette proposition "un risque d'effet pervers" et "de raréfaction de l'accès au crédit" mais a sollicité un vote de sagesse des députés.]]></description>
    <pubDate>Fri, 28 Sep 2018 23:46:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Pacte: l'Assemblée assouplit les conditions de mise en oeuvre du retrait obligatoire</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/180928224508.pgj7qw5q.html</link>
-   <description><![CDATA[L'Assemblée nationale a voté vendredi soir, dans le cadre du projet de loi Pacte, l'abaissement de 95 à 90% du seuil qui permet l'ouverture d'une procédure de retrait obligatoire, élargissant ainsi la porte de sortie de la Bourse de Paris pour les entreprises. Le retrait obligatoire (ou "squeeze out" en anglais) permet aux actionnaires majoritaires d'une entreprise cotée d'exiger le retrait des actionnaires minoritaires, sans que ces derniers ne puissent s'y opposer. Ils sont alors indemnisés sur la base d'une évaluation objective de leurs titres. Le texte "allège les contraintes des PME qui souhaitent s'introduire en Bourse mais aussi les contraintes des entreprises qui veulent se retirer de la Bourse, parce qu'elles veulent à un moment donné de leur vie avoir accès à un mode de financement un peu plus adéquat", a expliqué le rapporteur thématique Jean-Noël Barrot (MoDem). Le député LR Eric Woerth, ancien ministre du Budget, a proposé et obtenu "le même droit" pour les actionnaires minoritaires. Son amendement, adopté avec l'avis favorable du gouvernement, abaisse de 95 à 90% le seuil à partir duquel les actionnaires minoritaires peuvent demander à l'Autorité des marchés financiers (AMF) qu'elle exige des actionnaires majoritaires que ces derniers leur rachètent leurs titres.]]></description>
-   <pubDate>Fri, 28 Sep 2018 22:45:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
