@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Thu, 20 Dec 2018 01:10:02 +0100</pubDate>
+  <pubDate>Thu, 20 Dec 2018 11:40:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Le Parlement adopte définitivement le projet de budget 2019</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/181220103318.movl9yze.html</link>
+   <description><![CDATA[Le Parlement a définitivement approuvé jeudi, par un ultime vote de l'Assemblée nationale, le projet de budget 2019, qui comprend des baisses d'impôts et de la dépense publique, au terme d'un parcours rendu tumultueux par la crise des "gilets jaunes". Avant de se pencher dans l'après-midi sur les mesures d'urgence répondant à cette crise, 182 députés ont voté pour ce deuxième budget du quinquennat, 52 contre et 3 se sont abstenus. Les élus LREM et MoDem ont voté pour, tandis que les groupes d'opposition ont majoritairement voté contre ou se sont abstenus.]]></description>
+   <pubDate>Thu, 20 Dec 2018 10:33:00 +0100</pubDate>
+  </item>
   <item>
    <title>Mesures d'urgence: le projet de loi passe le cap de la commission à l'Assemblée</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/181220000906.zk7nr2ly.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/181219023936.w9paq470.html</link>
    <description><![CDATA[L'Assemblée nationale a voté dans la nuit de mardi à mercredi une prime exceptionnelle en faveur des forces de l'ordre, ainsi que pour les personnels des préfectures mobilisés ces dernières semaines dans le cadre du mouvement des "gilets jaunes". Lors de l'examen en nouvelle lecture du projet de budget 2019, les députés ont adopté un amendement du gouvernement prévoyant une prime exceptionnelle de 300 euros qui sera versée aux 111.000 policiers et militaires qui ont participé aux récentes opérations. Le coût de la mesure est de 33,3 millions d'euros. L'adoption de ces amendements intervient alors que le ministère de l'Intérieur est confronté à une fronde des syndicats de policiers qui réclament "un retour sur investissement" après leur mobilisation et ont, pour certains, appelé à un mouvement de protestation mardi et mercredi. Les députés avaient peu avant adopté un autre amendement gouvernemental prévoyant une indemnité exceptionnelle de 200 euros pour les personnels des préfectures mobilisés. La mesure doit concerner 5.000 fonctionnaires pour un coût d'1 million d'euros.]]></description>
    <pubDate>Wed, 19 Dec 2018 02:39:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Mission d'intérêt général: l'Assemblée vote une hausse de 4 millions de la dotation de l'AFP</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/181219012422.k0bmshi8.html</link>
-   <description><![CDATA[L'Assemblée nationale a voté dans la nuit de mardi à mercredi une hausse de 4 millions d'euros de la dotation allouée à l'Agence France-Presse au titre de ses missions d'intérêt général. Dans le cadre de l'examen du projet de budget 2019 en nouvelle lecture, les députés ont voté, sans en débattre, un amendement du gouvernement qui abonde de 4 millions d'euros les autorisations d'engagement au profit de la dotation allouée à l'AFP. Cette dotation complémentaire à celle prévue dans le texte initial du gouvernement qui était de "111,8 millions d'euros, s'inscrit dans le contexte d'un plan de transformation de l'Agence qui vise à la rendre plus compétitive et plus adaptée au marché mondial actuel, en développant notamment ses activités numériques et vidéo", explique l'exposé des motifs de l'amendement. "Elle est rendue possible par le niveau effectif des compensations accordées à l'Agence au titre de ses missions d'intérêt général exercées en 2015, 2016 et 2017, inférieur au plafond maximal autorisé par le droit des aides d'Etat", ajoute le gouvernement.]]></description>
-   <pubDate>Wed, 19 Dec 2018 01:24:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
