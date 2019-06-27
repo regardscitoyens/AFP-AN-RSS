@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Thu, 27 Jun 2019 16:20:05 +0200</pubDate>
+  <pubDate>Thu, 27 Jun 2019 16:30:03 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Le Sénat adopte le projet de réforme de la fonction publique en première lecture</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/190627142640.k3j2cjv3.html</link>
+   <description><![CDATA[Le Sénat à majorité de droite a adopté jeudi en première lecture, après l'Assemblée nationale, le projet de loi de "transformation de la fonction publique" qui doit donner au secteur "une nouvelle souplesse", mais est vivement critiqué par la gauche. Le texte, voté à main levée au terme de deux semaines de débats, prévoit notamment un recours accru aux contractuels, mais aussi des mobilités facilitées, un dispositif de rupture conventionnelle, un "contrat de projet" sur le modèle du privé ou encore un dialogue social "simplifié" avec une refonte des instances.]]></description>
+   <pubDate>Thu, 27 Jun 2019 14:26:00 +0200</pubDate>
+  </item>
   <item>
    <title>L'Assemblée nationale vote "l'urgence écologique et climatique"</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/190627140858.aj6mgswe.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/190626144238.0urvxsej.html</link>
    <description><![CDATA[La secrétaire d'Etat à la transition écologique et solidaire Brune Poirson a assuré qu'"aucune collectivité ne sera lésée" par la mise en place de la consigne des emballages, mercredi à l'Assemblée nationale. "Aucune municipalité, aucune collectivité ne sera lésée", a déclaré la secrétaire d'Etat, en réponse à la députée Danielle Brulebois (LREM, Jura) qui faisait état de l'inquiétude de collectivités locales. "Le système actuel, s'il fonctionne bien, il faut le maintenir", a ajouté Brune Poirson. La secrétaire d'Etat a affirmé que "les Français souhaitent la consigne", en mentionnant un sondage Ifop selon lequel 83% des personnes interrogées se sont dites prêtes à ramener leurs canettes ou bouteilles en plastique. La consigne concernera "tous les emballages: verre, aluminium, plastique", a dit Brune Poirson. La secrétaire d'Etat a observé que les performances de recyclage de la France sont "loin d'être bonnes", avec "au mieux 26% de collecte et de recyclage" des emballages en plastique. L'Union européenne a fixé comme objectif d'atteindre 90% de bouteilles plastiques collectées et recyclées d'ici 2029, a-t-elle rappelé. Brune Poirson a installé le 19 juin un comité de pilotage visant à mettre en oeuvre un système de consigne pour améliorer la collecte des emballages usagés en France.]]></description>
    <pubDate>Wed, 26 Jun 2019 14:42:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Le projet de loi sur la Collectivité européenne d'Alsace adopté par l'Assemblée</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/190626143014.1hg4lh3l.html</link>
-   <description><![CDATA[Le projet de loi sur les compétences de la nouvelle Collectivité européenne d'Alsace (CEA) a été adopté mercredi en première lecture par l'Assemblée nationale. Le texte, déjà voté le 5 avril par le Sénat, été validé dans une version modifiée par 441 voix pour, 30 voix contre et 61 absentions. Il sera soumis début juillet à une commission mixte paritaire (députés-sénateurs) pour tenter de trouver un compromis et, en cas d'échec, revu en nouvelle lecture par les deux chambres. Ce projet de loi entend répondre au désir affiché par de nombreux Alsaciens d'une forme de reconnaissance de l'Alsace, diluée dans la région Grand Est depuis 2015. Il accorde à la future CEA des prérogatives en matière de coopération transfrontalière, de bilinguisme, de tourisme, de mobilité et de culture, notamment. "A travers cette loi, l'Alsace devient un laboratoire territorial et européen de la France", ont salué dans un communiqué les présidents des deux conseils départementaux concernés, Brigitte Klinkert (Haut-Rhin) et Frédéric Bierry (Bas-Rhin), rappelant que la collectivité sera officiellement lancée le 1er janvier 2021.]]></description>
-   <pubDate>Wed, 26 Jun 2019 14:30:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
