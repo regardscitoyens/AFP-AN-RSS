@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Tue, 08 Oct 2019 09:00:01 +0200</pubDate>
+  <pubDate>Tue, 08 Oct 2019 09:30:01 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Attaque à la préfecture: une commission d'enquête à l'Assemblée "dès la semaine prochaine" (Ferrand)</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/191008072816.mzxulca6.html</link>
+   <description><![CDATA[Le président de l'Assemblée nationale Richard Ferrand va "évidemment" donner suite à la demande des Républicains de création d'une commission d'enquête sur l'attaque de la préfecture de police et celle-ci se mettra au travail "dès la semaine prochaine", a-t-il annoncé mardi. "Je vais répondre à Christian Jacob qui portera sa demande au nom de son groupe évidemment favorablement puisque chacun a un droit de tirage" pour la création d'une commission d'enquête une fois par session, a annoncé M. Ferrand sur Cnews. Cette commission se mettra en place "dans la foulée, c'est-à-dire dès la semaine prochaine", a précisé le président de l'Assemblée.]]></description>
+   <pubDate>Tue, 08 Oct 2019 07:28:00 +0200</pubDate>
+  </item>
   <item>
    <title>Handicap à l'école: le lourd défi des accompagnants</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/191008065513.5rortxuz.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/191007142615.03zhl4y1.html</link>
    <description><![CDATA["Notre pays cache un fascisme islamiste", a estimé lundi sur Twitter le président de Debout la France, Nicolas Dupont-Aignan, à propos de la tuerie à la préfecture de police de Paris perpétrée jeudi par un Français radicalisé. "A chaque attentat nous avons le droit au même déni de réalité. Notre pays cache un fascisme islamiste!", a tweeté l'ancien allié de Marine Le Pen au second tour de la présidentielle en 2017. Il a souhaité sur BFMTV que l'Etat "prenne la mesure du défi, non pas pour stigmatiser quiconque mais pour maintenant mettre hors d'état de nuire des salafistes, des dangereux personnages qui s'attaquent à la République" et demandé que les fonctionnaires prêtent à cet égard un "serment de laïcité et de République". M. Dupont-Aignan a par ailleurs estimé dans un communiqué que le débat sur l'immigration à l'Assemblée nationale n'était "qu'une nouvelle opération médiatique visant à dissimuler l'absence d'actes du gouvernement", et réclamé à nouveau un référendum d'initiative partagée sur l'immigration. are/jk/sd TWITTER]]></description>
    <pubDate>Mon, 07 Oct 2019 14:26:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Immigration: "Nous n'avons pas atteint tous nos objectifs", admet Philippe</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/191007141648.jbofy83y.html</link>
-   <description><![CDATA[Le Premier ministre, Édouard Philippe, a admis lundi que "clairement, nous n'avons pas atteint tous nos objectifs", en matière d'immigration, lors du débat sur le sujet à l'Assemblée nationale. "Nous devons poursuivre nos efforts et faire mieux. Sur la base de quels principes ? Avec quels moyens ?", a interrogé le chef du gouvernement, en rejetant les "fausses solutions", telles que "l'immigration zéro" ou "la fin du droit du sol", mais en se disant ouvert "à l'idée de quotas".]]></description>
-   <pubDate>Mon, 07 Oct 2019 14:16:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
