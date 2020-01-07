@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Tue, 07 Jan 2020 11:00:01 +0100</pubDate>
+  <pubDate>Tue, 07 Jan 2020 11:20:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Le projet de réforme des retraites examiné par l'Assemblée à partir du 17 février</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200107101507.i2pjn2nj.html</link>
+   <description><![CDATA[L'Assemblée nationale examinera le projet contesté de réforme des retraites à partir du 17 février et durant deux semaines, en procédure accélérée, a-t-on appris mardi de source parlementaire. Cet ordre du jour a été donné mardi par le ministre des Relations avec le Parlement Marc Fesneau, en conférence des présidents de l'Assemblée. Le projet de réforme, qui comprend un projet de loi organique et un projet de loi ordinaire, sera présenté en Conseil des ministres le 24 janvier. Ces textes doivent ensuite passer devant une commission spéciale à l'Assemblée nationale, suivant la demande faite mardi par le chef de file des députés LREM Gilles Le Gendre. Ce calendrier, en commission puis dans l'hémicycle, devrait permettre une adoption en première lecture début mars. Puis le projet de réforme passera au Sénat. Après plus d'un mois de grève contre cette réforme, le gouvernement ouvre mardi un nouveau round de concertations. Le Premier ministre Edouard Philippe s'est dit "ouvert à des discussions sur beaucoup de sujets", dont celui de la "conférence de financement" proposée par le numéro un de la CFDT Laurent Berger. M. Berger a réaffirmé mardi, à son arrivée à la réunion multilatérale au ministère du Travail, qu'"il fa(llait) d'abord que l'âge pivot soit enlevé du projet de loi" sur les retraites pour espérer une sortie du conflit social.]]></description>
+   <pubDate>Tue, 07 Jan 2020 10:15:00 +0100</pubDate>
+  </item>
   <item>
    <title>Le projet de réforme des retraites examiné par l'Assemblée à partir du 17 février (source parlementaire)</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200107095524.gcv6p1r0.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/191219231651.729mt9ow.html</link>
    <description><![CDATA[L'Assemblée nationale a voté jeudi soir en faveur de l'interdiction progressive des microplastiques "intentionnellement ajoutés" dans les cosmétiques, les détergents, les produits d'entretien ou les dispositifs médicaux d'ici à 2027, afin de lutter contre ces particules qui polluent les océans. "Les microplastiques naturels qui n'ont pas été modifiés chimiquement ou biodégradables ne sont pas concernés", précise l'amendement de la rapporteure Stéphanie Kerbarh (LREM). Un décret en Conseil d'Etat devra préciser cette mesure. "La trajectoire proposée laisse le temps aux industriels de trouver des alternatives", a souligné Mme Kerbarh. Les microplastiques sont des particules de plastique de moins de cinq millimètres particulièrement polluantes pour les océans ou les cours d'eau comme l'a encore récemment montré la Fondation Tara. Cette ONG a collecté des échantillons qui révèlent, parmi ces microplastiques, la présence de microbilles issues de dentifrices ou de cosmétiques, en plus des particules provenant de déchets plastique plus importants. Ces microplastiques peuvent relarguer leurs additifs dans l'eau ou absorber des polluants. Ce qui pose problème quand ils sont ensuite ingérés par des poissons, dont certains sont consommés par les humains. Huit millions de tonnes de plastique sont déversées chaque année dans l'océan, selon des estimations.]]></description>
    <pubDate>Thu, 19 Dec 2019 23:16:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Dépôts sauvages de déchets: les députés créent une amende forfaitaire</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/191219222631.xs763mue.html</link>
-   <description><![CDATA[L'Assemblée nationale a entériné jeudi soir la création d'une amende forfaitaire de 1.500 euros pour le dépôt sauvage de déchets, dans le cadre de l'examen en première lecture du projet de loi anti-gaspillage. La disposition avait été introduite en commission par un amendement de la rapporteure Stéphanie Kerbarh (LREM), contre l'avis du gouvernement. Les députés ont également adopté des mesures permettant la confiscation et la mise en fourrière d'un véhicule utilisé pour commettre l'infraction, ou encore la vidéo-verbalisation de ces infractions. Les dépôts illégaux de déchets, également appelés dépôts sauvages, sont en augmentation, selon l'étude d'impact du projet de loi. A titre d'exemple, les routes de l'Essonne ont vu les tonnages de déchets sauvages multipliés par deux entre 2013 et 2014 et les espaces verts d'Ile-de-France ont constaté une augmentation des dépôts sauvages de +30% entre 2014 et 2015. Le sujet s'est retrouvé au coeur d'un drame en août dernier, avec le décès du maire de Signes (Var), renversé par une camionnette dont les occupants, qu'il voulait verbaliser, avaient jeté des gravats en bord de route.]]></description>
-   <pubDate>Thu, 19 Dec 2019 22:26:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
