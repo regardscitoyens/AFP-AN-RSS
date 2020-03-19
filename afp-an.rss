@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Thu, 19 Mar 2020 12:20:01 +0100</pubDate>
+  <pubDate>Thu, 19 Mar 2020 17:10:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Le coronavirus menace la zone euro et l'"avenir politique de notre continent", prévient Le Maire</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200319155754.k233fmpr.html</link>
+   <description><![CDATA[Le ministre de l'Economie Bruno Le Maire a averti jeudi devant l'Assemblée nationale que la crise du coronavirus menaçait l'existence même de la zone euro et posait la question de "l'avenir politique de notre continent". "Soit la zone euro réagit de manière unie à la crise économique et elle sortira plus forte, soit elle réagit en ordre dispersée et elle risque de disparaître. Notre responsabilité dépasse donc les seules questions économiques et financières. Il en va de l'avenir politique de notre continent", a-t-il déclaré devant quelques députés, à l'ouverture des débats sur le projet de loi de finances rectificative.]]></description>
+   <pubDate>Thu, 19 Mar 2020 15:57:00 +0100</pubDate>
+  </item>
   <item>
    <title>"Il faut faire le travail" : à l'Assemblée au temps du coronavirus</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200319111703.z2yxsbrg.html</link>
@@ -83,12 +89,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200316221530.cffthk1b.html</link>
    <description><![CDATA[Deux Conseils des ministres se tiendront mardi puis mercredi pour mettre en oeuvre rapidement les mesures d'urgences annoncées lundi par Emmanuel Macron contre le coronavirus, a indiqué l'Elysée. Le premier se tiendra mardi à 10H30 dans un format particulier avec la présence physique de neuf ministres, ceux qui participent au Conseil de défense, tandis que les autres y participeront par visioconférence par mesure de précaution sanitaire. A son issue, le ministre de l'Intérieur Christophe Castaner s'adressera à la presse. Le second se déroulera mercredi pour examiner une autre partie des mesures. Dans son allocution télévisée sur la crise, Emmanuel Macron a indiqué qu'un projet de loi "permettant de répondre à l'urgence" serait présenté ce jour-là en Conseil des ministres, puis le lendemain devant le Parlement. Il devrait être soumis au Conseil d'Etat dès mardi. "J'ai vu aujourd'hui les présidents de l'Assemblée nationale et du Sénat afin que ces textes soient votés le plus rapidement possible, afin aussi que la vie démocratique et le contrôle du Parlement continuent dans cette période", a précisé le chef de l'Etat lors d'une allocution télévisée. Le projet de loi doit permettre "si nécessaire de légiférer par ordonnances dans les domaines relevant strictement de la gestion de crise", a-t-il indiqué sans davantage de précisions.]]></description>
    <pubDate>Mon, 16 Mar 2020 22:15:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Coronavirus: deux conseils des ministres mardi et mercredi</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200316221130.5mpc88wd.html</link>
-   <description><![CDATA[Deux conseils des ministres se tiendront mardi puis mercredi pour mettre en oeuvre rapidement les mesures d'urgences annoncées lundi par Emmanuel Macron contre le coronavirus, a indiqué l'Elysée. Le premier se tiendra mardi à 10H30 dans un format particulier avec la présence physique de neuf ministres, ceux qui participent au Conseil de défense, tandis que les autres y participeront par visioconférence par mesure de précaution sanitaire.]]></description>
-   <pubDate>Mon, 16 Mar 2020 22:11:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
