@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Fri, 27 Mar 2020 18:30:01 +0100</pubDate>
+  <pubDate>Fri, 27 Mar 2020 19:30:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>L'Assemblée siégera mardi pour les "QAG" dans un format encore resserré</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200327182301.sc94q3om.html</link>
+   <description><![CDATA[La séance des questions au gouvernement (QAG) se tiendra mardi à l'Assemblée nationale dans un format encore resserré, avec un seul député pour représenter chaque groupe politique, a indiqué son président aux différents groupes. "Je vous confirme que désormais un seul représentant par groupe pourra être présent", affirme le président Richard Ferrand (LREM) dans un courrier adressé aux présidents des huit groupes de l'Assemblée - auquel l'AFP a eu accès- après un échange avec eux. "Ce collègue posera les questions des collègues de son groupe selon le tour de passage habituel, le nombre de questions par groupe demeurant inchangé", ajoute-t-il dans ce texte, soit deux questions réservées à chaque groupe. Au 11e jour de confinement face à l'épidémie de coronavirus, il souligne que cette situation "s'impose par la nécessité de prendre les mesures les plus restrictives possible, s'agissant des déplacements et des rassemblements de personnes". "Par conséquent, l'effectif des fonctionnaires présents dans l'hémicycle lors des questions au gouvernement sera également réduit drastiquement", poursuit M. Ferrand, alors que ces derniers (huissiers, fonctionnaires de la séance...)sont présents en nombre habituellement lorsque l'Assemblée siège. Depuis le début de la crise du coronavirus, le Palais Bourbon a lui-même été un "foyer épidémique" avec au moins 26 cas de covid-19 dont 18 députés. Compte tenu des restrictions sanitaires et de la concentration de l'action sur la gestion de crise, l'Assemblée siège donc dans un format réduit et les réformes (retraite, bioéthique...) sont suspendues jusqu'à nouvel ordre. Des questions au gouvernement sont cependant programmées, les deux prochains mardi. Et une mission d'information parlementaire, qui devrait être présidée par Richard Ferrand, doit aussi plancher sur la gestion de l'épidémie du coronavirus et contrôler chaque semaine les mesures prises par le gouvernement. Elle doit démarrer ses travaux la semaine prochaine.]]></description>
+   <pubDate>Fri, 27 Mar 2020 18:23:00 +0100</pubDate>
+  </item>
   <item>
    <title>Coronavirus: l'Assemblée s'associe au dispositif "Nation apprenante"</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200327172553.f2pqiy6v.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200322022730.lc42tlcw.html</link>
    <description><![CDATA[L'Assemblée nationale a voté dans la nuit de samedi à dimanche le projet de loi permettant l'instauration d'un état d'urgence sanitaire de deux mois face à l'épidémie du coronavirus, mais des désaccords subsistent avec le Sénat, avec lequel les discussions vont reprendre ce dimanche. Ce texte autorise aussi le gouvernement à prendre par ordonnances une série de mesures pour soutenir les entreprises et acte le report du 2e tour des municipales.]]></description>
    <pubDate>Sun, 22 Mar 2020 02:27:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Coronavirus: accès direct à la Sécu pour les Français qui rentrent de l'étranger</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200321235116.huhx5rau.html</link>
-   <description><![CDATA[Les expatriés de retour en France pendant la crise du coronavirus pourront accéder directement à la Sécurité sociale: l'Assemblée nationale a voté dans la nuit de samedi à dimanche la suspension du délai de carence de trois mois habituellement imposé aux Français après un long séjour à l'étranger. C'est le gouvernement qui a soumis cet amendement lors de l'examen du projet de loi d'urgence destiné à faire face à l'épidémie du coronavirus. "Nous sommes en plein processus de rapatriement des Français de l'étranger (....) Aujourd'hui, l'épidémie de Covid-19 oblige de très nombreux Français à rentrer en France de façon inattendue. Cet amendement vise à suspendre le délai de carence de trois mois (pour bénéficier de l'Assurance maladie) pendant la période de pandémie", a expliqué la ministre du Travail Muriel Pénicaud. La mesure pourra être précisée par décret, mais elle propose à ce stade de déroger à ce système de carence entre le 1er mars et le 1er juin. La proposition a été votée sans difficulté, le député Bertrand Pancher (Libertés et Territoires) appelant au passage à "supprimer ce délai de carence en permanence, ce serait beaucoup mieux".]]></description>
-   <pubDate>Sat, 21 Mar 2020 23:51:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
