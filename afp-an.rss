@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Tue, 28 Apr 2020 16:10:01 +0200</pubDate>
+  <pubDate>Tue, 28 Apr 2020 16:20:04 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Déconfinement: rassemblements "limités à 10 personnes" à partir du 11 mai (Philippe)</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200428141623.uzne8p9a.html</link>
+   <description><![CDATA["Les rassemblements organisés sur la voie publique ou dans des lieux privés seront limités à 10 personnes", à partir du 11 mai pour le début du déconfinement progressif, a annoncé le Premier ministre mardi à l'Assemblée nationale. "D'une façon générale, il nous faut éviter les rassemblements qui sont autant d'occasions de propagation du virus. (...) En attendant des jours meilleurs, les mairies continueront à proposer, sauf urgence, le report des mariages", a ajouté Edouard Philippe.]]></description>
+   <pubDate>Tue, 28 Apr 2020 14:16:00 +0200</pubDate>
+  </item>
   <item>
    <title>Coronavirus: "La saison 2019-2020 de sports professionnels, notamment de football, ne pourra pas reprendre" (Philippe)</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200428140711.sz4ls0kf.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200426100246.37pfqvxx.html</link>
    <description><![CDATA[Le conseil des ministres se tiendra mardi matin, et non mercredi comme habituellement, pour précéder la présentation dans la foulée de "la stratégie" de déconfinement par Edouard Philippe à l'Assemblée nationale, a indiqué dimanche l'Elysée. Cette stratégie continuait à être mise au point dimanche entre Matignon, les ministères et Jean Castex, le "M. Déconfinement" du gouvernement. Les mesures seront ensuite discutées lundi par Edouard Philippe et Emmanuel Macron au cours de leur traditionnel déjeuner hebdomadaire à l'Elysée avant une réunion d'arbitrage entre eux, le ministre de la Santé Olivier Véran et Jean Castex, selon l'Elysée. Matignon a annoncé samedi soir qu'Edouard Philippe présenterait mardi à 15H00 devant l'Assemblée nationale "la stratégie nationale du plan de déconfinement" qui doit débuter le 11 mai. Cette présentation, groupée avec celle déjà prévue sur le traçage et l'application "StopCovid", sera suivie d'un débat et d'un vote. Le Premier ministre "présentera l'architecture générale" du déconfinement, précise-t-on dans l'entourage du président, en indiquant que les modalités seront fixées avec les préfets et les maires. Emmanuel Macron veut que cette stratégie "soit le plan de toute la Nation", indique-t-on de même source, en soulignant que le calendrier fixé par le président lors de son allocution du 13 avril était jusqu'à présent "respecté". Après la présentation, "il restera ensuite une grosse semaine de discussion pour tout finaliser et aider le terrain à appliquer" le plan, selon cette source. Edouard Philippe a indiqué dimanche dans une série de tweets qu'il sera "co-construit" entre le gouvernement, les élus et les partenaires sociaux autour de six thèmes: la santé, l'école, le travail, les commerces, les transports et les rassemblements, notamment culturels, cultuels et sportifs.]]></description>
    <pubDate>Sun, 26 Apr 2020 10:02:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>Coronavirus: Philippe présentera le plan de déconfinement à l'Assemblée mardi à 15H00 (Matignon à l'AFP)</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/200425190923.lb86x8n1.html</link>
-   <description><![CDATA[Edouard Philippe présentera mardi à 15H00 devant l'Assemblée nationale "la stratégie nationale du plan de déconfinement" qui doit débuter le 11 mai, a annoncé samedi Matignon à l'AFP. Cette présentation sera suivie d'un débat et d'un vote en application de l'article 50-1 de la Constitution, selon un courrier du Premier ministre adressé au président de l'Assemblée Richard Ferrand. Edouard Philippe groupera sa déclaration avec celle déjà prévue le même jour sur la question du traçage et de l'application "Stop Covid". Depuis le 13 avril, date à laquelle Emmanuel Macron a fixé le début du déconfinement au 11 mai, le gouvernement travaille à son plan de sortie, sous la houlette du haut-fonctionnaire et maire Jean Castex. Dix-sept chantiers prioritaires ont été identifiés, parmi lesquels le retour à l'école, la reprise du travail dans les entreprises, le bon fonctionnement des transports publics, l'approvisionnement en masques et gel, la politique de tests ou l'accompagnement des personnes âgées. Le confinement en raison de l'épidémie de coronavirus avait été initié en France le 17 mars. Lundi, une dizaine de ministres autour de la ministre de la Cohésion des territoires Jacqueline Gourault consulteront les représentants des collectivités locales, afin d'évoquer certaines hypothèses. Des premières pistes ont d'ores et déjà été avancées par l'exécutif, dont un retour en classe échelonné sur trois semaines, sur la base du volontariat. Le déconfinement devrait aussi être "territorialisé", en fonction de l'impact de l'épidémie.]]></description>
-   <pubDate>Sat, 25 Apr 2020 19:09:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
