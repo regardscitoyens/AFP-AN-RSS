@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Thu, 29 Oct 2020 12:30:01 +0100</pubDate>
+  <pubDate>Thu, 29 Oct 2020 13:00:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Nice : Castex porte le plan vigipirate au niveau "urgence attentat" partout en France</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/201029115555.vvwww2cn.html</link>
+   <description><![CDATA[Le plan vigipirate est porté au niveau "urgence attentat" sur l'ensemble du territoire national après l'attentat de Nice, a annoncé jeudi devant l'Assemblée nationale le Premier ministre Jean Castex, précisant qu'un conseil de défense aurait lieu vendredi matin. Le chef du gouvernement a dénoncé une "attaque aussi lâche que barbare qui endeuille le pays tout entier", après l'attaque au couteau jeudi contre une basilique en plein coeur de Nice qui a fait trois morts, dont un sacristain.]]></description>
+   <pubDate>Thu, 29 Oct 2020 11:55:00 +0100</pubDate>
+  </item>
   <item>
    <title>Confinement: LR ne prendra pas part au vote à l'Assemblée, à cause de l'attaque à Nice</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/201029112045.sgigm6vl.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/201027173805.auvutf77.html</link>
    <description><![CDATA[Le Premier ministre, Jean Castex, a jugé mardi "indispensables" de "nouvelles mesures" pour lutter contre l'épidémie de Covid-19, qu'il doit présenter jeudi à l'Assemblée nationale et au Sénat, a-t-il annoncé dans un message publié sur Twitter. "Nous devons mobiliser non seulement la représentation nationale mais l'ensemble de notre pays", a poursuivi le chef du gouvernement, qui reçoit mardi soir les chefs de partis et associations d'élus, et ensuite les partenaires sociaux à Matignon.]]></description>
    <pubDate>Tue, 27 Oct 2020 17:38:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Covid-19: Castex annonce débats et votes à l'assemblée et au Sénat jeudi (sources parlementaires)</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/201027172609.3bued8ua.html</link>
-   <description><![CDATA[Le Premier ministre Jean Castex a annoncé mardi aux responsables politiques que des débats suivis de votes sur la lutte contre le Covid-19 auraient lieu à l'Assemblée nationale jeudi matin et au Sénat l'après-midi, selon des sources parlementaires. Ces débats auront lieu alors qu'une intervention mercredi du président Emmanuel Macron est "une option regardée de près", selon une source proche de l'exécutif, au moment où la situation sanitaire se dégrade rapidement.]]></description>
-   <pubDate>Tue, 27 Oct 2020 17:26:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
