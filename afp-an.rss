@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Thu, 29 Oct 2020 11:10:01 +0100</pubDate>
+  <pubDate>Thu, 29 Oct 2020 12:30:01 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Confinement: LR ne prendra pas part au vote à l'Assemblée, à cause de l'attaque à Nice</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/201029112045.sgigm6vl.html</link>
+   <description><![CDATA[Le groupe LR à l'Assemblée nationale ne prendra pas part au vote sur la situation sanitaire et le reconfinement, en raison de l'attaque à Nice, a déclaré jeudi son président Damien Abad, alors que la socialiste Valérie Rabault a appelé à interrompre le débat. Il n'est "pas sûr qu'un vote qui montrerait des fractures dans la représentation nationale soit opportun (...) Notre groupe ne prendra pas part au vote, en conscience et en responsabilité afin de ne pas ajouter des divisions dans notre pays", a affirmé le député de l'Ain. Le groupe Libertés et Territoires a également annoncé par la voix du député de Charente-Maritime, Olivier Falorni, son intention de ne pas prendre part au vote. Plus tôt à la tribune, la cheffe de file du groupe socialiste Valérie Rabault a estimé qu'il aurait fallu "interrompre ce débat" sur le reconfinement et la gestion de la crise sanitaire, en raison de l'attaque à Nice. "La République continue, la République est vivante, la démocratie aussi, mais le respect que nous devons à nos concitoyens, aux Niçois, aurait dû nous imposer de reporter notre débat", a-t-elle lancé sous les applaudissements de députés de gauche et de droite. Le groupe PS votera cependant en faveur du plan du gouvernent. "J'ai pour ma part la conviction profonde que précisément parce que des terroristes attaquent notre démocratie, notre République, que c'est l'honneur de l'Assemblée nationale de continuer à faire vivre notre République", a réagi le président de l'Assemblée nationale Richard Ferrand au perchoir.]]></description>
+   <pubDate>Thu, 29 Oct 2020 11:20:00 +0100</pubDate>
+  </item>
   <item>
    <title>Attaque de Nice: Castex quitte l'Assemblée, le débat sur le reconfinement s'y poursuit</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/201029100420.fyfmyvbz.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/201027172609.3bued8ua.html</link>
    <description><![CDATA[Le Premier ministre Jean Castex a annoncé mardi aux responsables politiques que des débats suivis de votes sur la lutte contre le Covid-19 auraient lieu à l'Assemblée nationale jeudi matin et au Sénat l'après-midi, selon des sources parlementaires. Ces débats auront lieu alors qu'une intervention mercredi du président Emmanuel Macron est "une option regardée de près", selon une source proche de l'exécutif, au moment où la situation sanitaire se dégrade rapidement.]]></description>
    <pubDate>Tue, 27 Oct 2020 17:26:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>L'Assemblée vote le projet de budget de la sécu pour 2021, plombé par la pandémie</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/201027170558.mgv11mm1.html</link>
-   <description><![CDATA[L'Assemblée nationale a voté mardi en première lecture le projet de budget de la Sécurité sociale pour 2021, plombé par la pandémie. Le texte a été adopté par 326 voix pour, 204 contre et quatre abstentions. Le projet qui doit être examiné par le Sénat prévoit un déficit de quelque 28 milliards en 2021, après 46,6 milliards d'euros cette année.]]></description>
-   <pubDate>Tue, 27 Oct 2020 17:05:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
