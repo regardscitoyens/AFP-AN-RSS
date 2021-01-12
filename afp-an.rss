@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Tue, 12 Jan 2021 14:50:01 +0100</pubDate>
+  <pubDate>Tue, 12 Jan 2021 15:30:02 +0100</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Violences au Congrès américain: "La démocratie parlementaire, un bien précieux" (Ferrand)</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/210112142238.xfbqy9fh.html</link>
+   <description><![CDATA[Le président de l'Assemblée nationale Richard Ferrand (LREM) a souligné mardi que "la démocratie parlementaire est un bien précieux mais n'est jamais à l'abri des menaces", après les violentes intrusions au Capitole mercredi dernier. Cette démocratie parlementaire à protéger, c'est "ce que la sauvage et intolérable invasion du Congrès des États-Unis nous a brusquement rappelé le 6 janvier dernier", a-t-il déclaré, avant la séance de rentrée des questions au gouvernement. Souhaitant ses "meilleurs voeux pour 2021", le titulaire du perchoir a dit ne pas douter "que nos débats ne manqueront pas de vivacité". "Mais je souhaite que la sérénité et le respect mutuel soient toujours présents", a-t-il plaidé. Une foule de manifestants pro-Trump a envahi mercredi le Capitole, interrompant les débats pour la certification de la victoire de Joe Biden par les deux chambres du Congrès réunies en session extraordinaire. Le bilan total des violences s'élève à cinq morts. Députés et membres du gouvernement ont ensuite observé une minute de silence pour les cinq soldats français tués au Mali ces derniers jours, ainsi que pour les trois gendarmes abattus avant Noël dans le Puy-de-Dôme par un forcené alors qu'ils tentaient de secourir une femme victime de violences conjugales.]]></description>
+   <pubDate>Tue, 12 Jan 2021 14:22:00 +0100</pubDate>
+  </item>
   <item>
    <title>Le lourd tribut des jeunes à la crise, au coeur d'un débat à l'Assemblée</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/210112134123.z72nzv0x.html</link>
@@ -89,12 +95,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/201217102431.bgmnwsgh.html</link>
    <description><![CDATA[Le président de l'Assemblée nationale Richard Ferrand (LREM), "cas contact" d'Emmanuel Macron testé positif au Covid-19, s'est isolé, a indiqué jeudi la présidence de l'institution dans un communiqué. Certains présidents de groupes politiques comme Valérie Rabault (PS) ou Olivier Becht (Agir ensemble), qui comme le président de l'Assemblée nationale, ont déjeuné mardi avec le chef de l'Etat, ont annulé leurs rendez-vous ou se sont isolés, ont indiqué à l'AFP des sources parlementaires. parl-reb/grd/ib/sp]]></description>
    <pubDate>Thu, 17 Dec 2020 10:24:00 +0100</pubDate>
-  </item>
-  <item>
-   <title>Covid: le Parlement adopte définitivement le budget 2021 et son plan de relance</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/201217093552.wmb1ctnt.html</link>
-   <description><![CDATA[Le Parlement a définitivement adopté jeudi le projet de budget 2021 et son plan de relance face à la crise sanitaire, par un ultime vote de l'Assemblée nationale. Les députés ont largement voté ce projet de loi de finances par 91 voix contre 33. L'opposition de droite comme de gauche a voté contre, tandis que l'UDI a "majoritairement" apporté son soutien au texte.]]></description>
-   <pubDate>Thu, 17 Dec 2020 09:35:00 +0100</pubDate>
   </item>
  </channel>
 </rss>
