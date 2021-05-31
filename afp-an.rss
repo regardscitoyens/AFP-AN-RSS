@@ -4,8 +4,14 @@
   <title>AFP AN RSS</title>
   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/index.html</link>
   <description>Les dernières dépèches AFP liées à l'Assemblée nationale</description>
-  <pubDate>Sun, 30 May 2021 21:10:02 +0200</pubDate>
+  <pubDate>Mon, 31 May 2021 18:20:02 +0200</pubDate>
   <generator>RegardsCitoyens https://github.com/RegardsCitoyens/AFP-AN-RSS</generator>
+  <item>
+   <title>Grands rassemblements: feu vert du Conseil constitutionnel au pass sanitaire</title>
+   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/210531161022.c8lzpv3y.html</link>
+   <description><![CDATA[Le Conseil constitutionnel a validé lundi le projet controversé de "pass sanitaire" du gouvernement prévu par la loi encadrant la sortie progressive de l'état d'urgence sanitaire. Le "pass sanitaire" sera limité aux grands rassemblements, comme les festivals, et soumis à une batterie de mesures limitant les atteintes aux libertés individuelles. Il conditionnera l'accès aux grands événements, plus de 1.000 personnes selon le projet du gouvernement, à la présentation d'un résultat négatif de dépistage du virus, d'un justificatif de vaccination ou encore d'une attestation de rétablissement après une contamination.]]></description>
+   <pubDate>Mon, 31 May 2021 16:10:00 +0200</pubDate>
+  </item>
   <item>
    <title>Environ un millier de manifestants pour le droit au logement à Paris</title>
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/210530190036.qqjafvyu.html</link>
@@ -83,12 +89,6 @@
    <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/210525161624.0hzfbn2s.html</link>
    <description><![CDATA[Sans les voix de la gauche ni de la droite, l'Assemblée nationale a voté mardi en première lecture le projet de loi pour la "confiance dans l'institution judiciaire" d'Eric Dupond-Moretti, qui comprend une palette de mesures de l'enquête à la détention. Procès filmés, droits renforcés dès l'enquête préliminaire, secret des avocats élargi et encore fin des réductions de peine automatiques: le texte a été adopté par 342 voix contre 105, et 96 abstentions, et devrait être examiné au Sénat en septembre.]]></description>
    <pubDate>Tue, 25 May 2021 16:16:00 +0200</pubDate>
-  </item>
-  <item>
-   <title>"Favoritisme" autour de StopCovid ? Les choses "faites dans les règles", assure Cédric O</title>
-   <link>http://hosting.afp.com/clients/assembleenationale/francais/assnat/210525152210.j3l07obh.html</link>
-   <description><![CDATA[Le secrétaire d'État chargé du numérique Cédric O a estimé mardi que le développement de l'application "StopCovid", devenue depuis "TousAntiCovid" et qui fait l'objet d'une enquête du Parquet national financier (PNF) pour "favoritisme", a été fait "dans les règles". Cédric O a contesté dans Le Parisien être "inquiet" après l'annonce vendredi par l'AFP de l'ouverture de cette enquête, qui fait suite à un signalement de juin 2020 de l'association Anticor. "Si les choses ont été faites dans l'urgence, elles ont été faites dans les règles", plaide le secrétaire d'Etat. "J'assume que nous soyons allés vite, car cela a sauvé des vies. Et je me félicite qu'il s'agisse d'un projet souverain, qui ne dépend pas d'Apple, ni de Google", a-t-il insisté. "Le seul intérêt poursuivi a été l'intérêt général. Je ne vais pas m'excuser d'avoir déployé StopCovid ! Cela étant dit, il est normal que si la justice pose des questions, elle puisse obtenir toutes les réponses", a nuancé ce membre du gouvernement. Dimanche, sur franceinfo, il avait déjà souligné que "le projet de loi +Etat d'urgence sanitaire+ nous permettait d'aller beaucoup plus vite qu'un appel d'offres qui aurait pris plusieurs mois", et que par ailleurs Outscale était la "seule entreprise" à "être labellisée" pour effectuer ce genre de missions avec suffisamment de sécurité. Le PNF enquête depuis septembre sur des soupçons de favoritisme au bénéfice d'une filiale de Dassault Systèmes, Outscale, chargée de la maintenance de l'application, après un signalement d'Anticor effectué au printemps 2020. Dans un courrier envoyé au parquet en juin 2020, l'association estimait que la maintenance payante réalisée par Outscale pour l'application aurait dû faire l'objet d'un appel d'offres, au vu des montants en jeu. Alors qu'un rapport parlementaire de novembre évaluait le coût global de cette application à 6,5 millions d'euros de début juin à fin octobre, Cédric O estime mardi dans Le Parisien que l'application devenue depuis "TousAntiCovid" a coûté "environ 9 millions d'euros tout compris" depuis son lancement en juin 2020. "Pour une telle application, c'est très peu cher, notamment parce que les entreprises qui ont travaillé sur le développement l'ont fait gratuitement : l'application allemande, c'est 20 millions d'euros de développement et 3 millions d'euros par mois, pour une efficacité similaire", assure le secrétaire d'État. gd/rfo/sr DASSAULT SYSTEMES APPLE INC. GOOGLE]]></description>
-   <pubDate>Tue, 25 May 2021 15:22:00 +0200</pubDate>
   </item>
  </channel>
 </rss>
